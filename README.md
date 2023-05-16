@@ -1,4 +1,4 @@
-# Code for Paper "Diversity, Agreement, and Polarization in Elections" from AAAI-23
+# Code for Paper "Diversity, Agreement, and Polarization in Elections" from IJCAI-23
 
 
 The repository contains two experiment sets, prefmap (maps of preferences) and
