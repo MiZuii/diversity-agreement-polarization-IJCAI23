@@ -1,0 +1,836 @@
+instance_id_1;instance_id_2;distance;time
+Impartial Culture_13;Sushi_6;532.0;31.301810264587402
+Impartial Culture_13;Sushi_7;502.0;27.91287922859192
+Impartial Culture_13;Grenoble_0;628.0;21.6322820186615
+Impartial Culture_13;Grenoble_1;629.0;23.330643892288208
+Impartial Culture_13;Grenoble_2;631.0;22.87521982192993
+Impartial Culture_13;Grenoble_3;618.0;21.72516131401062
+Impartial Culture_13;Grenoble_4;607.0;22.807079315185547
+Impartial Culture_13;Grenoble_5;633.0;21.31220316886902
+Impartial Culture_13;Grenoble_6;585.0;23.759711027145386
+Impartial Culture_13;Grenoble_7;626.0;21.311227560043335
+Impartial Culture_14;Impartial Culture_15;439.0;19.254735708236694
+Impartial Culture_14;SP by Conitzer_0;749.0;22.200669050216675
+Impartial Culture_14;SP by Conitzer_1;742.0;19.443828344345093
+Impartial Culture_14;SP by Conitzer_2;755.0;19.667388439178467
+Impartial Culture_14;SP by Conitzer_3;740.0;19.22590446472168
+Impartial Culture_14;SP by Conitzer_4;749.0;21.194343090057373
+Impartial Culture_14;SP by Conitzer_5;763.0;19.515789031982422
+Impartial Culture_14;SP by Conitzer_6;746.0;19.474308729171753
+Impartial Culture_14;SP by Conitzer_7;758.0;19.793182849884033
+Impartial Culture_14;SP by Conitzer_8;744.0;19.18125319480896
+Impartial Culture_14;SP by Conitzer_9;745.0;23.731125831604004
+Impartial Culture_14;SP by Conitzer_10;741.0;35.739837884902954
+Impartial Culture_14;SP by Conitzer_11;749.0;35.59735727310181
+Impartial Culture_14;SP by Conitzer_12;732.0;35.964354515075684
+Impartial Culture_14;SP by Conitzer_13;742.0;36.367775440216064
+Impartial Culture_14;SP by Conitzer_14;748.0;26.423155546188354
+Impartial Culture_14;SP by Conitzer_15;764.0;19.97547698020935
+Impartial Culture_14;SP by Walsh_0;836.0;21.464824438095093
+Impartial Culture_14;SP by Walsh_1;817.0;23.502166509628296
+Impartial Culture_14;SP by Walsh_2;819.0;21.74733853340149
+Impartial Culture_14;SP by Walsh_3;814.0;36.59028458595276
+Impartial Culture_14;SP by Walsh_4;828.0;41.81442975997925
+Impartial Culture_14;SP by Walsh_5;819.0;40.755420446395874
+Impartial Culture_14;SP by Walsh_6;808.0;40.1614727973938
+Impartial Culture_14;SP by Walsh_7;851.0;39.74809193611145
+Impartial Culture_14;SP by Walsh_8;800.0;34.69747281074524
+Impartial Culture_14;SP by Walsh_9;807.0;23.573333024978638
+Impartial Culture_14;SP by Walsh_10;828.0;25.71537685394287
+Impartial Culture_14;SP by Walsh_11;825.0;23.504186630249023
+Impartial Culture_14;SP by Walsh_12;830.0;22.09348154067993
+Impartial Culture_14;SP by Walsh_13;789.0;22.209537506103516
+Impartial Culture_14;SP by Walsh_14;817.0;27.82465934753418
+Impartial Culture_14;SP by Walsh_15;817.0;21.68546414375305
+Impartial Culture_14;SPOC_0;612.0;18.561214208602905
+Impartial Culture_14;SPOC_1;610.0;18.454406023025513
+Impartial Culture_14;SPOC_2;622.0;18.731743097305298
+Impartial Culture_14;SPOC_3;606.0;28.0610249042511
+Impartial Culture_14;SPOC_4;607.0;34.388049364089966
+Impartial Culture_14;SPOC_5;602.0;34.2948682308197
+Impartial Culture_14;SPOC_6;613.0;34.490307569503784
+Impartial Culture_14;SPOC_7;602.0;34.531036138534546
+Impartial Culture_14;SPOC_8;599.0;35.705337047576904
+Impartial Culture_14;SPOC_9;599.0;28.106715202331543
+Impartial Culture_14;SPOC_10;603.0;18.797261476516724
+Impartial Culture_14;SPOC_11;597.0;19.977527141571045
+Impartial Culture_14;SPOC_12;606.0;20.699918270111084
+Impartial Culture_14;SPOC_13;614.0;20.44633197784424
+Impartial Culture_14;SPOC_14;607.0;25.819849729537964
+Impartial Culture_14;SPOC_15;603.0;33.95226788520813
+Impartial Culture_14;Single-Crossing_0;821.0;38.72845768928528
+Impartial Culture_14;Single-Crossing_1;815.0;38.681015729904175
+Impartial Culture_14;Single-Crossing_2;816.0;37.97762155532837
+Impartial Culture_14;Single-Crossing_3;832.0;38.682077169418335
+Impartial Culture_14;Single-Crossing_4;806.0;37.931700706481934
+Impartial Culture_14;Single-Crossing_5;805.0;39.451839208602905
+Impartial Culture_14;Single-Crossing_6;785.0;38.42514777183533
+Impartial Culture_14;Single-Crossing_7;814.0;39.15369129180908
+Impartial Culture_14;Single-Crossing_8;822.0;38.97159719467163
+Impartial Culture_14;Single-Crossing_9;812.0;40.116830587387085
+Impartial Culture_14;Single-Crossing_10;796.0;25.849799156188965
+Impartial Culture_14;Single-Crossing_11;818.0;20.426554441452026
+Impartial Culture_14;Single-Crossing_12;792.0;20.4482524394989
+Impartial Culture_14;Single-Crossing_13;803.0;33.16690707206726
+Impartial Culture_14;Single-Crossing_14;830.0;31.627504110336304
+Impartial Culture_14;Single-Crossing_15;792.0;39.41474199295044
+Impartial Culture_14;GS Balanced_0;682.0;35.696701526641846
+Impartial Culture_14;GS Balanced_1;683.0;33.26055288314819
+Impartial Culture_14;GS Balanced_2;682.0;19.874301433563232
+Impartial Culture_14;GS Balanced_3;675.0;20.229212760925293
+Impartial Culture_14;GS Balanced_4;683.0;21.759992599487305
+Impartial Culture_14;GS Balanced_5;675.0;21.767940282821655
+Impartial Culture_14;GS Balanced_6;686.0;32.494579553604126
+Impartial Culture_14;GS Balanced_7;686.0;19.679121494293213
+Impartial Culture_14;GS Balanced_8;682.0;20.81019353866577
+Impartial Culture_14;GS Balanced_9;674.0;20.57729744911194
+Impartial Culture_14;GS Balanced_10;694.0;34.42832589149475
+Impartial Culture_14;GS Balanced_11;695.0;35.68163585662842
+Impartial Culture_14;GS Balanced_12;680.0;21.30406928062439
+Impartial Culture_14;GS Balanced_13;691.0;19.254907846450806
+Impartial Culture_14;GS Balanced_14;686.0;20.293898820877075
+Impartial Culture_14;GS Balanced_15;681.0;37.350430488586426
+Impartial Culture_14;GS Caterpillar_0;532.0;34.60284376144409
+Impartial Culture_14;GS Caterpillar_1;542.0;33.60249948501587
+Impartial Culture_14;GS Caterpillar_2;538.0;35.50735640525818
+Impartial Culture_14;GS Caterpillar_3;549.0;33.99603796005249
+Impartial Culture_14;GS Caterpillar_4;543.0;33.39791464805603
+Impartial Culture_14;GS Caterpillar_5;536.0;33.04341149330139
+Impartial Culture_14;GS Caterpillar_6;542.0;33.66760993003845
+Impartial Culture_14;GS Caterpillar_7;531.0;32.81231164932251
+Impartial Culture_14;GS Caterpillar_8;532.0;27.729708671569824
+Impartial Culture_14;GS Caterpillar_9;538.0;18.164833307266235
+Impartial Culture_14;GS Caterpillar_10;542.0;21.998425722122192
+Impartial Culture_14;GS Caterpillar_11;538.0;17.918599605560303
+Impartial Culture_14;GS Caterpillar_12;532.0;21.624515295028687
+Impartial Culture_14;GS Caterpillar_13;537.0;17.88062024116516
+Impartial Culture_14;GS Caterpillar_14;540.0;18.237958908081055
+Impartial Culture_14;GS Caterpillar_15;540.0;19.104667901992798
+Impartial Culture_14;Interval_0;789.0;35.24616742134094
+Impartial Culture_14;Interval_1;802.0;34.3567111492157
+Impartial Culture_14;Interval_2;804.0;23.204780101776123
+Impartial Culture_14;Interval_3;794.0;18.71558976173401
+Impartial Culture_14;Interval_4;782.0;20.38561987876892
+Impartial Culture_14;Interval_5;810.0;18.63483214378357
+Impartial Culture_14;Interval_6;846.0;23.048091173171997
+Impartial Culture_14;Interval_7;790.0;31.35280728340149
+Impartial Culture_14;Interval_8;820.0;36.74773168563843
+Impartial Culture_14;Interval_9;833.0;33.647011280059814
+Impartial Culture_14;Interval_10;796.0;36.40713834762573
+Impartial Culture_14;Interval_11;827.0;34.969966173172
+Impartial Culture_14;Interval_12;817.0;34.48088073730469
+Impartial Culture_14;Interval_13;804.0;35.73912835121155
+Impartial Culture_14;Interval_14;807.0;36.717578411102295
+Impartial Culture_14;Interval_15;799.0;36.327855348587036
+Impartial Culture_14;Square_0;676.0;36.028929233551025
+Impartial Culture_14;Square_1;672.0;37.33914256095886
+Impartial Culture_14;Square_2;661.0;36.000471353530884
+Impartial Culture_14;Square_3;696.0;36.62908887863159
+Impartial Culture_14;Square_4;675.0;36.3974072933197
+Impartial Culture_14;Square_5;664.0;32.496031761169434
+Impartial Culture_14;Square_6;683.0;21.843899965286255
+Impartial Culture_14;Square_7;669.0;20.866280794143677
+Impartial Culture_14;Square_8;692.0;21.55012035369873
+Impartial Culture_14;Square_9;677.0;22.95376682281494
+Impartial Culture_14;Square_10;729.0;20.83135747909546
+Impartial Culture_14;Square_11;682.0;20.039698123931885
+Impartial Culture_14;Square_12;696.0;21.867793560028076
+Impartial Culture_14;Square_13;674.0;26.16310715675354
+Impartial Culture_14;Square_14;677.0;19.70816206932068
+Impartial Culture_14;Square_15;693.0;25.711883544921875
+Impartial Culture_14;Cube_0;632.0;36.331056118011475
+Impartial Culture_14;Cube_1;607.0;34.395148277282715
+Impartial Culture_14;Cube_2;593.0;34.250503063201904
+Impartial Culture_14;Cube_3;611.0;21.140305519104004
+Impartial Culture_14;Cube_4;604.0;19.337010622024536
+Impartial Culture_14;Cube_5;612.0;22.110074758529663
+Impartial Culture_14;Cube_6;666.0;30.1547589302063
+Impartial Culture_14;Cube_7;606.0;35.78686237335205
+Impartial Culture_14;Cube_8;655.0;37.196661949157715
+Impartial Culture_14;Cube_9;666.0;37.57768392562866
+Impartial Culture_14;Cube_10;619.0;37.573015213012695
+Impartial Culture_14;Cube_11;615.0;26.913498163223267
+Impartial Culture_14;Cube_12;644.0;19.855895519256592
+Impartial Culture_14;Cube_13;618.0;19.81241774559021
+Impartial Culture_14;Cube_14;681.0;20.611788272857666
+Impartial Culture_14;Cube_15;610.0;29.156925916671753
+Impartial Culture_14;5-Cube_0;513.0;18.121826887130737
+Impartial Culture_14;5-Cube_1;590.0;18.83287024497986
+Impartial Culture_14;5-Cube_2;574.0;20.450457096099854
+Impartial Culture_14;5-Cube_3;532.0;21.18821406364441
+Impartial Culture_14;5-Cube_4;536.0;23.66479468345642
+Impartial Culture_14;5-Cube_5;579.0;34.01413178443909
+Impartial Culture_14;5-Cube_6;518.0;32.80455803871155
+Impartial Culture_14;5-Cube_7;618.0;35.99021887779236
+Impartial Culture_14;10-Cube_0;590.0;36.09273982048035
+Impartial Culture_14;10-Cube_1;507.0;33.4777729511261
+Impartial Culture_14;10-Cube_2;479.0;31.07801079750061
+Impartial Culture_14;10-Cube_3;495.0;31.715847492218018
+Impartial Culture_14;10-Cube_4;499.0;18.603567361831665
+Impartial Culture_14;10-Cube_5;567.0;18.738672494888306
+Impartial Culture_14;10-Cube_6;583.0;19.363168239593506
+Impartial Culture_14;10-Cube_7;472.0;20.405489206314087
+Impartial Culture_14;Circle_0;695.0;26.575554132461548
+Impartial Culture_14;Circle_1;703.0;20.745663166046143
+Impartial Culture_14;Circle_2;696.0;20.86136221885681
+Impartial Culture_14;Circle_3;692.0;22.000959157943726
+Impartial Culture_14;Circle_4;697.0;19.363609313964844
+Impartial Culture_14;Circle_5;697.0;21.8267502784729
+Impartial Culture_14;Circle_6;688.0;21.06517195701599
+Impartial Culture_14;Circle_7;700.0;19.822097539901733
+Impartial Culture_14;Circle_8;700.0;19.692885160446167
+Impartial Culture_14;Circle_9;687.0;24.108788013458252
+Impartial Culture_14;Circle_10;682.0;19.992960691452026
+Impartial Culture_14;Circle_11;720.0;21.74161386489868
+Impartial Culture_14;Circle_12;711.0;19.502278089523315
+Impartial Culture_14;Circle_13;693.0;24.207279920578003
+Impartial Culture_14;Circle_14;717.0;19.045823574066162
+Impartial Culture_14;Circle_15;705.0;19.227818965911865
+Impartial Culture_14;Sphere_0;617.0;19.289936304092407
+Impartial Culture_14;Sphere_1;588.0;18.808858394622803
+Impartial Culture_14;Sphere_2;596.0;21.680880069732666
+Impartial Culture_14;Sphere_3;607.0;21.802538633346558
+Impartial Culture_14;Sphere_4;607.0;18.867830753326416
+Impartial Culture_14;Sphere_5;606.0;18.92144250869751
+Impartial Culture_14;Sphere_6;591.0;19.448193550109863
+Impartial Culture_14;Sphere_7;572.0;20.566489219665527
+Impartial Culture_14;Sphere_8;602.0;19.083504676818848
+Impartial Culture_14;Sphere_9;605.0;19.402698278427124
+Impartial Culture_14;Sphere_10;599.0;19.041523456573486
+Impartial Culture_14;Sphere_11;572.0;21.007712602615356
+Impartial Culture_14;Sphere_12;589.0;18.897636651992798
+Impartial Culture_14;Sphere_13;589.0;18.617207527160645
+Impartial Culture_14;Sphere_14;595.0;19.43079924583435
+Impartial Culture_14;Sphere_15;621.0;19.720375537872314
+Impartial Culture_14;Urn_0;920.0;17.35882258415222
+Impartial Culture_14;Urn_1;938.0;18.44510293006897
+Impartial Culture_14;Urn_2;970.0;23.790299654006958
+Impartial Culture_14;Urn_3;565.0;19.61321759223938
+Impartial Culture_14;Urn_4;548.0;19.22950792312622
+Impartial Culture_14;Urn_5;1081.0;15.890946388244629
+Impartial Culture_14;Urn_6;972.0;17.11123824119568
+Impartial Culture_14;Urn_7;545.0;21.424092292785645
+Impartial Culture_14;Urn_8;951.0;24.62261986732483
+Impartial Culture_14;Urn_9;737.0;19.101943731307983
+Impartial Culture_14;Urn_10;937.0;17.88848876953125
+Impartial Culture_14;Urn_11;1045.0;17.29988932609558
+Impartial Culture_14;Urn_12;924.0;34.70340156555176
+Impartial Culture_14;Urn_13;653.0;34.37597465515137
+Impartial Culture_14;Urn_14;883.0;18.698328256607056
+Impartial Culture_14;Urn_15;889.0;17.164172887802124
+Impartial Culture_14;Urn_16;1189.0;14.46082353591919
+Impartial Culture_14;Urn_17;1065.0;31.21668529510498
+Impartial Culture_14;Urn_18;674.0;37.20394277572632
+Impartial Culture_14;Urn_19;690.0;37.74013352394104
+Impartial Culture_14;Urn_20;1037.0;34.27871322631836
+Impartial Culture_14;Urn_21;1109.0;32.66490983963013
+Impartial Culture_14;Urn_22;818.0;35.04270887374878
+Impartial Culture_14;Urn_23;1197.0;29.588143825531006
+Impartial Culture_14;Urn_24;995.0;34.27151942253113
+Impartial Culture_14;Urn_25;669.0;36.9453661441803
+Impartial Culture_14;Urn_26;508.0;33.364234924316406
+Impartial Culture_14;Urn_27;590.0;35.95578598976135
+Impartial Culture_14;Urn_28;1032.0;32.409117698669434
+Impartial Culture_14;Urn_29;616.0;36.275963306427
+Impartial Culture_14;Urn_30;1001.0;31.439600706100464
+Impartial Culture_14;Urn_31;763.0;35.21504235267639
+Impartial Culture_14;Urn_32;1041.0;33.16040349006653
+Impartial Culture_14;Urn_33;908.0;29.736897945404053
+Impartial Culture_14;Urn_34;824.0;36.55409598350525
+Impartial Culture_14;Urn_35;830.0;29.38683843612671
+Impartial Culture_14;Urn_36;722.0;17.728713274002075
+Impartial Culture_14;Urn_37;817.0;18.176491260528564
+Impartial Culture_14;Urn_38;941.0;25.41373610496521
+Impartial Culture_14;Urn_39;1239.0;25.435577392578125
+Impartial Culture_14;Urn_40;858.0;34.202826261520386
+Impartial Culture_14;Urn_41;762.0;31.6646146774292
+Impartial Culture_14;Urn_42;474.0;20.321427822113037
+Impartial Culture_14;Urn_43;1097.0;16.411835432052612
+Impartial Culture_14;Urn_44;832.0;18.047158241271973
+Impartial Culture_14;Urn_45;821.0;31.8110089302063
+Impartial Culture_14;Urn_46;800.0;34.553770780563354
+Impartial Culture_14;Urn_47;652.0;37.1280472278595
+Impartial Culture_14;Mallows_0;472.0;31.621196746826172
+Impartial Culture_14;Mallows_1;630.0;38.25594162940979
+Impartial Culture_14;Mallows_2;1124.0;31.177998304367065
+Impartial Culture_14;Mallows_3;661.0;37.41337037086487
+Impartial Culture_14;Mallows_4;593.0;29.690497636795044
+Impartial Culture_14;Mallows_5;1168.0;29.588425159454346
+Impartial Culture_14;Mallows_6;1098.0;30.36262536048889
+Impartial Culture_14;Mallows_7;642.0;27.961154460906982
+Impartial Culture_14;Mallows_8;444.0;15.861592769622803
+Impartial Culture_14;Mallows_9;452.0;19.810282468795776
+Impartial Culture_14;Mallows_10;663.0;20.898780584335327
+Impartial Culture_14;Mallows_11;962.0;17.71361541748047
+Impartial Culture_14;Mallows_12;436.0;19.943586587905884
+Impartial Culture_14;Mallows_13;644.0;28.810139894485474
+Impartial Culture_14;Mallows_14;909.0;18.7573561668396
+Impartial Culture_14;Mallows_15;577.0;19.60663104057312
+Impartial Culture_14;Mallows_16;439.0;15.740087032318115
+Impartial Culture_14;Mallows_17;1124.0;16.0281720161438
+Impartial Culture_14;Mallows_18;780.0;24.399363040924072
+Impartial Culture_14;Mallows_19;887.0;18.624546766281128
+Impartial Culture_14;Mallows_20;475.0;17.12447190284729
+Impartial Culture_14;Mallows_21;960.0;22.504738569259644
+Impartial Culture_14;Mallows_22;642.0;21.360238075256348
+Impartial Culture_14;Mallows_23;570.0;27.603698253631592
+Impartial Culture_14;Mallows_24;838.0;19.737016439437866
+Impartial Culture_14;Mallows_25;1144.0;15.225157260894775
+Impartial Culture_14;Mallows_26;461.0;18.751704931259155
+Impartial Culture_14;Mallows_27;1027.0;21.277973890304565
+Impartial Culture_14;Mallows_28;1076.0;16.991572856903076
+Impartial Culture_14;Mallows_29;434.0;15.658103942871094
+Impartial Culture_14;Mallows_30;438.0;16.754945993423462
+Impartial Culture_14;Mallows_31;700.0;34.844351291656494
+Impartial Culture_14;Mallows_32;1180.0;29.352916955947876
+Impartial Culture_14;Mallows_33;433.0;28.8475604057312
+Impartial Culture_14;Mallows_34;620.0;39.20610523223877
+Impartial Culture_14;Mallows_35;445.0;31.806633710861206
+Impartial Culture_14;Mallows_36;505.0;33.8375985622406
+Impartial Culture_14;Mallows_37;1100.0;32.00221920013428
+Impartial Culture_14;Mallows_38;601.0;37.87916660308838
+Impartial Culture_14;Mallows_39;550.0;36.0580837726593
+Impartial Culture_14;Mallows_40;1046.0;22.421810388565063
+Impartial Culture_14;Mallows_41;482.0;19.344603776931763
+Impartial Culture_14;Mallows_42;1199.0;14.43643045425415
+Impartial Culture_14;Mallows_43;473.0;17.50252604484558
+Impartial Culture_14;Mallows_44;449.0;16.37038826942444
+Impartial Culture_14;Mallows_45;1035.0;16.807865381240845
+Impartial Culture_14;Mallows_46;633.0;25.373846769332886
+Impartial Culture_14;Mallows_47;1180.0;14.959930658340454
+Impartial Culture_14;UN_0;433.0;14.920469045639038
+Impartial Culture_14;UN_1;438.0;14.78136396408081
+Impartial Culture_14;UN_2;431.0;14.706861734390259
+Impartial Culture_14;UN_3;434.0;14.800313472747803
+Impartial Culture_14;ID;1239.0;15.676288366317749
+Impartial Culture_14;AN;969.0;21.458557844161987
+Impartial Culture_14;UNSTA;560.0;29.877919673919678
+Impartial Culture_14;UNSTB;677.0;32.04548454284668
+Impartial Culture_14;UNSTC;769.0;21.496302366256714
+Impartial Culture_14;ST_0;816.0;18.351114511489868
+Impartial Culture_14;ST_1;820.0;28.4918532371521
+Impartial Culture_14;ST_2;815.0;23.49310851097107
+Impartial Culture_14;ST_3;810.0;18.00795602798462
+Impartial Culture_14;IDSTA;960.0;19.91874408721924
+Impartial Culture_14;IDSTB;1071.0;17.990527868270874
+Impartial Culture_14;IDSTC;1153.0;25.263094186782837
+Impartial Culture_14;IDAN_0;1177.0;14.602579593658447
+Impartial Culture_14;IDAN_1;1123.0;15.318701982498169
+Impartial Culture_14;IDAN_2;1077.0;18.95038890838623
+Impartial Culture_14;IDAN_3;1043.0;16.502097368240356
+Impartial Culture_14;IDAN_4;1017.0;23.89487934112549
+Impartial Culture_14;IDAN_5;1001.0;33.63372540473938
+Impartial Culture_14;IDAN_6;989.0;32.760132789611816
+Impartial Culture_14;IDAN_7;975.0;26.30893588066101
+Impartial Culture_14;IDAN_8;965.0;16.153799057006836
+Impartial Culture_14;IDAN_9;963.0;16.847295999526978
+Impartial Culture_14;IDAN_10;965.0;15.150803089141846
+Impartial Culture_14;ANUN_0;908.0;15.25986099243164
+Impartial Culture_14;ANUN_1;864.0;15.515186309814453
+Impartial Culture_14;ANUN_2;790.0;24.082897424697876
+Impartial Culture_14;ANUN_3;738.0;32.79773497581482
+Impartial Culture_14;ANUN_4;686.0;32.763564586639404
+Impartial Culture_14;ANUN_5;640.0;36.02124571800232
+Impartial Culture_14;ANUN_6;581.0;35.53071618080139
+Impartial Culture_14;ANUN_7;546.0;34.39352464675903
+Impartial Culture_14;ANUN_8;518.0;34.41791868209839
+Impartial Culture_14;ANUN_9;466.0;31.026705741882324
+Impartial Culture_14;ANUN_10;449.0;28.97681975364685
+Impartial Culture_14;Irish_0;485.0;33.434571504592896
+Impartial Culture_14;Irish_1;518.0;23.650697469711304
+Impartial Culture_14;Irish_2;492.0;18.328290939331055
+Impartial Culture_14;Irish_3;506.0;18.111650705337524
+Impartial Culture_14;Irish_4;526.0;21.607208490371704
+Impartial Culture_14;Irish_5;525.0;29.759004592895508
+Impartial Culture_14;Irish_6;497.0;32.692676305770874
+Impartial Culture_14;Irish_7;533.0;34.4693603515625
+Impartial Culture_14;Sushi_0;528.0;33.49669575691223
+Impartial Culture_14;Sushi_1;566.0;35.51655149459839
+Impartial Culture_14;Sushi_2;562.0;34.6158082485199
+Impartial Culture_14;Sushi_3;533.0;18.431736946105957
+Impartial Culture_14;Sushi_4;497.0;17.729841947555542
+Impartial Culture_14;Sushi_5;568.0;20.42713713645935
+Impartial Culture_14;Sushi_6;523.0;29.65010118484497
+Impartial Culture_14;Sushi_7;507.0;29.17846655845642
+Impartial Culture_14;Grenoble_0;611.0;21.34963631629944
+Impartial Culture_14;Grenoble_1;618.0;22.433845281600952
+Impartial Culture_14;Grenoble_2;616.0;22.237828969955444
+Impartial Culture_14;Grenoble_3;605.0;23.10183835029602
+Impartial Culture_14;Grenoble_4;598.0;20.88960862159729
+Impartial Culture_14;Grenoble_5;626.0;31.154392957687378
+Impartial Culture_14;Grenoble_6;588.0;38.75309777259827
+Impartial Culture_14;Grenoble_7;619.0;37.1411919593811
+Impartial Culture_15;SP by Conitzer_0;762.0;29.125595092773438
+Impartial Culture_15;SP by Conitzer_1;755.0;19.40098786354065
+Impartial Culture_15;SP by Conitzer_2;766.0;25.33146595954895
+Impartial Culture_15;SP by Conitzer_3;755.0;19.33314085006714
+Impartial Culture_15;SP by Conitzer_4;760.0;20.961760759353638
+Impartial Culture_15;SP by Conitzer_5;766.0;20.359498023986816
+Impartial Culture_15;SP by Conitzer_6;757.0;19.725554704666138
+Impartial Culture_15;SP by Conitzer_7;771.0;19.4298677444458
+Impartial Culture_15;SP by Conitzer_8;759.0;20.02556562423706
+Impartial Culture_15;SP by Conitzer_9;762.0;28.127679347991943
+Impartial Culture_15;SP by Conitzer_10;748.0;25.071160316467285
+Impartial Culture_15;SP by Conitzer_11;762.0;19.469898462295532
+Impartial Culture_15;SP by Conitzer_12;747.0;19.719366312026978
+Impartial Culture_15;SP by Conitzer_13;757.0;24.817826509475708
+Impartial Culture_15;SP by Conitzer_14;765.0;19.08481478691101
+Impartial Culture_15;SP by Conitzer_15;777.0;19.578705549240112
+Impartial Culture_15;SP by Walsh_0;841.0;26.253582239151
+Impartial Culture_15;SP by Walsh_1;830.0;36.63353753089905
+Impartial Culture_15;SP by Walsh_2;832.0;27.223686695098877
+Impartial Culture_15;SP by Walsh_3;827.0;26.95931077003479
+Impartial Culture_15;SP by Walsh_4;841.0;23.21673560142517
+Impartial Culture_15;SP by Walsh_5;824.0;22.85996437072754
+Impartial Culture_15;SP by Walsh_6;815.0;29.47339391708374
+Impartial Culture_15;SP by Walsh_7;858.0;22.37881350517273
+Impartial Culture_15;SP by Walsh_8;813.0;22.17332696914673
+Impartial Culture_15;SP by Walsh_9;818.0;29.112576246261597
+Impartial Culture_15;SP by Walsh_10;835.0;24.89186429977417
+Impartial Culture_15;SP by Walsh_11;834.0;22.047407388687134
+Impartial Culture_15;SP by Walsh_12;841.0;25.381757259368896
+Impartial Culture_15;SP by Walsh_13;802.0;24.465710878372192
+Impartial Culture_15;SP by Walsh_14;822.0;22.0546452999115
+Impartial Culture_15;SP by Walsh_15;830.0;21.76763343811035
+Impartial Culture_15;SPOC_0;611.0;25.255834341049194
+Impartial Culture_15;SPOC_1;609.0;20.285442113876343
+Impartial Culture_15;SPOC_2;613.0;19.50191903114319
+Impartial Culture_15;SPOC_3;607.0;18.29888653755188
+Impartial Culture_15;SPOC_4;598.0;19.031504154205322
+Impartial Culture_15;SPOC_5;599.0;18.720098733901978
+Impartial Culture_15;SPOC_6;604.0;21.691081523895264
+Impartial Culture_15;SPOC_7;605.0;19.831324577331543
+Impartial Culture_15;SPOC_8;606.0;19.421531200408936
+Impartial Culture_15;SPOC_9;604.0;19.045968294143677
+Impartial Culture_15;SPOC_10;610.0;19.42049789428711
+Impartial Culture_15;SPOC_11;594.0;20.181904554367065
+Impartial Culture_15;SPOC_12;603.0;18.951918125152588
+Impartial Culture_15;SPOC_13;605.0;18.816818475723267
+Impartial Culture_15;SPOC_14;602.0;18.630764484405518
+Impartial Culture_15;SPOC_15;604.0;21.22031331062317
+Impartial Culture_15;Single-Crossing_0;840.0;20.703372955322266
+Impartial Culture_15;Single-Crossing_1;824.0;20.748279809951782
+Impartial Culture_15;Single-Crossing_2;835.0;20.366859912872314
+Impartial Culture_15;Single-Crossing_3;845.0;27.060181140899658
+Impartial Culture_15;Single-Crossing_4;805.0;21.328776359558105
+Impartial Culture_15;Single-Crossing_5;792.0;20.636831283569336
+Impartial Culture_15;Single-Crossing_6;800.0;20.480527877807617
+Impartial Culture_15;Single-Crossing_7;817.0;24.370816469192505
+Impartial Culture_15;Single-Crossing_8;831.0;20.80958652496338
+Impartial Culture_15;Single-Crossing_9;831.0;22.108964681625366
+Impartial Culture_15;Single-Crossing_10;811.0;21.005759239196777
+Impartial Culture_15;Single-Crossing_11;813.0;20.76222324371338
+Impartial Culture_15;Single-Crossing_12;803.0;23.086665153503418
+Impartial Culture_15;Single-Crossing_13;818.0;20.447778701782227
+Impartial Culture_15;Single-Crossing_14;843.0;35.16719079017639
+Impartial Culture_15;Single-Crossing_15;805.0;39.21593642234802
+Impartial Culture_15;GS Balanced_0;681.0;32.66552472114563
+Impartial Culture_15;GS Balanced_1;682.0;24.037779331207275
+Impartial Culture_15;GS Balanced_2;681.0;23.232770919799805
+Impartial Culture_15;GS Balanced_3;686.0;20.291793823242188
+Impartial Culture_15;GS Balanced_4;680.0;22.6024968624115
+Impartial Culture_15;GS Balanced_5;682.0;21.615519762039185
+Impartial Culture_15;GS Balanced_6;685.0;25.4732027053833
+Impartial Culture_15;GS Balanced_7;683.0;22.527896642684937
+Impartial Culture_15;GS Balanced_8;685.0;20.42832922935486
+Impartial Culture_15;GS Balanced_9;685.0;22.480071544647217
+Impartial Culture_15;GS Balanced_10;687.0;22.379189252853394
+Impartial Culture_15;GS Balanced_11;686.0;23.52255654335022
+Impartial Culture_15;GS Balanced_12;685.0;36.66075778007507
+Impartial Culture_15;GS Balanced_13;674.0;35.26284050941467
+Impartial Culture_15;GS Balanced_14;679.0;35.689369201660156
+Impartial Culture_15;GS Balanced_15;682.0;19.51734209060669
+Impartial Culture_15;GS Caterpillar_0;521.0;17.994365215301514
+Impartial Culture_15;GS Caterpillar_1;519.0;19.220464944839478
+Impartial Culture_15;GS Caterpillar_2;523.0;19.859670162200928
+Impartial Culture_15;GS Caterpillar_3;528.0;20.48164987564087
+Impartial Culture_15;GS Caterpillar_4;528.0;18.23858404159546
+Impartial Culture_15;GS Caterpillar_5;529.0;22.04446315765381
+Impartial Culture_15;GS Caterpillar_6;537.0;18.486572742462158
+Impartial Culture_15;GS Caterpillar_7;512.0;19.88957142829895
+Impartial Culture_15;GS Caterpillar_8;527.0;18.613964080810547
+Impartial Culture_15;GS Caterpillar_9;525.0;17.95650029182434
+Impartial Culture_15;GS Caterpillar_10;523.0;19.053147792816162
+Impartial Culture_15;GS Caterpillar_11;529.0;21.499233961105347
+Impartial Culture_15;GS Caterpillar_12;523.0;20.91872239112854
+Impartial Culture_15;GS Caterpillar_13;520.0;17.91513967514038
+Impartial Culture_15;GS Caterpillar_14;531.0;26.14284920692444
+Impartial Culture_15;GS Caterpillar_15;523.0;33.266194581985474
+Impartial Culture_15;Interval_0;814.0;36.74992322921753
+Impartial Culture_15;Interval_1;829.0;26.70667004585266
+Impartial Culture_15;Interval_2;815.0;19.92343783378601
+Impartial Culture_15;Interval_3;821.0;18.663039207458496
+Impartial Culture_15;Interval_4;801.0;23.472960710525513
+Impartial Culture_15;Interval_5;825.0;18.556673526763916
+Impartial Culture_15;Interval_6;829.0;19.468950271606445
+Impartial Culture_15;Interval_7;803.0;18.822235584259033
+Impartial Culture_15;Interval_8;819.0;20.17475199699402
+Impartial Culture_15;Interval_9;846.0;20.77264428138733
+Impartial Culture_15;Interval_10;811.0;18.867583990097046
+Impartial Culture_15;Interval_11;832.0;20.095540523529053
+Impartial Culture_15;Interval_12;812.0;18.0908625125885
+Impartial Culture_15;Interval_13;815.0;18.69708251953125
+Impartial Culture_15;Interval_14;814.0;19.384555101394653
+Impartial Culture_15;Interval_15;816.0;19.60797643661499
+Impartial Culture_15;Square_0;693.0;21.90654754638672
+Impartial Culture_15;Square_1;703.0;21.403077840805054
+Impartial Culture_15;Square_2;674.0;19.895381927490234
+Impartial Culture_15;Square_3;713.0;20.140491724014282
+Impartial Culture_15;Square_4;686.0;22.978172540664673
+Impartial Culture_15;Square_5;697.0;23.166000843048096
+Impartial Culture_15;Square_6;688.0;20.56650733947754
+Impartial Culture_15;Square_7;692.0;20.984413862228394
+Impartial Culture_15;Square_8;701.0;20.561335802078247
+Impartial Culture_15;Square_9;686.0;20.474924087524414
+Impartial Culture_15;Square_10;732.0;20.81799817085266
+Impartial Culture_15;Square_11;685.0;19.971923112869263
+Impartial Culture_15;Square_12;707.0;22.942066192626953
+Impartial Culture_15;Square_13;685.0;20.586040019989014
+Impartial Culture_15;Square_14;680.0;24.452017068862915
+Impartial Culture_15;Square_15;704.0;19.994529962539673
+Impartial Culture_15;Cube_0;649.0;20.123449087142944
+Impartial Culture_15;Cube_1;632.0;19.067649126052856
+Impartial Culture_15;Cube_2;604.0;19.305898666381836
+Impartial Culture_15;Cube_3;624.0;21.909329652786255
+Impartial Culture_15;Cube_4;621.0;35.554434299468994
+Impartial Culture_15;Cube_5;623.0;35.715588092803955
+Impartial Culture_15;Cube_6;691.0;37.27948594093323
+Impartial Culture_15;Cube_7;621.0;35.89993929862976
+Impartial Culture_15;Cube_8;652.0;36.86774015426636
+Impartial Culture_15;Cube_9;673.0;37.72688579559326
+Impartial Culture_15;Cube_10;642.0;37.382646322250366
+Impartial Culture_15;Cube_11;628.0;38.20846676826477
+Impartial Culture_15;Cube_12;657.0;36.45327544212341
+Impartial Culture_15;Cube_13;631.0;36.07856631278992
+Impartial Culture_15;Cube_14;678.0;38.65005135536194
+Impartial Culture_15;Cube_15;621.0;35.396860122680664
+Impartial Culture_15;5-Cube_0;540.0;33.81848859786987
+Impartial Culture_15;5-Cube_1;607.0;34.76412606239319
+Impartial Culture_15;5-Cube_2;583.0;35.7597177028656
+Impartial Culture_15;5-Cube_3;541.0;33.038689851760864
+Impartial Culture_15;5-Cube_4;543.0;34.47720694541931
+Impartial Culture_15;5-Cube_5;592.0;33.99269771575928
+Impartial Culture_15;5-Cube_6;527.0;26.18062949180603
+Impartial Culture_15;5-Cube_7;625.0;19.769823789596558
+Impartial Culture_15;10-Cube_0;597.0;22.680207014083862
+Impartial Culture_15;10-Cube_1;534.0;18.4739408493042
+Impartial Culture_15;10-Cube_2;464.0;17.047462940216064
+Impartial Culture_15;10-Cube_3;490.0;20.19322156906128
+Impartial Culture_15;10-Cube_4;506.0;21.844969987869263
+Impartial Culture_15;10-Cube_5;566.0;19.89320731163025
+Impartial Culture_15;10-Cube_6;616.0;22.042887210845947
+Impartial Culture_15;10-Cube_7;491.0;17.218780040740967
+Impartial Culture_15;Circle_0;688.0;19.33739733695984
+Impartial Culture_15;Circle_1;694.0;24.713369846343994
+Impartial Culture_15;Circle_2;707.0;37.03211069107056
+Impartial Culture_15;Circle_3;691.0;38.04260063171387
+Impartial Culture_15;Circle_4;690.0;37.19089484214783
+Impartial Culture_15;Circle_5;682.0;36.53937554359436
+Impartial Culture_15;Circle_6;691.0;36.57572269439697
+Impartial Culture_15;Circle_7;687.0;36.80766558647156
+Impartial Culture_15;Circle_8;687.0;37.18430542945862
+Impartial Culture_15;Circle_9;690.0;36.26959586143494
+Impartial Culture_15;Circle_10;685.0;36.98038411140442
+Impartial Culture_15;Circle_11;711.0;35.968451261520386
+Impartial Culture_15;Circle_12;704.0;36.908212423324585
+Impartial Culture_15;Circle_13;692.0;24.577420473098755
+Impartial Culture_15;Circle_14;708.0;19.194641590118408
+Impartial Culture_15;Circle_15;694.0;19.30494999885559
+Impartial Culture_15;Sphere_0;610.0;21.49543309211731
+Impartial Culture_15;Sphere_1;573.0;18.938440799713135
+Impartial Culture_15;Sphere_2;589.0;18.710397958755493
+Impartial Culture_15;Sphere_3;600.0;19.132185697555542
+Impartial Culture_15;Sphere_4;608.0;19.019720792770386
+Impartial Culture_15;Sphere_5;597.0;19.14946985244751
+Impartial Culture_15;Sphere_6;602.0;19.24769878387451
+Impartial Culture_15;Sphere_7;587.0;20.349868535995483
+Impartial Culture_15;Sphere_8;601.0;35.60843777656555
+Impartial Culture_15;Sphere_9;600.0;36.011064767837524
+Impartial Culture_15;Sphere_10;598.0;36.66639804840088
+Impartial Culture_15;Sphere_11;603.0;35.511375427246094
+Impartial Culture_15;Sphere_12;582.0;34.93346095085144
+Impartial Culture_15;Sphere_13;588.0;34.86926007270813
+Impartial Culture_15;Sphere_14;602.0;35.445852279663086
+Impartial Culture_15;Sphere_15;620.0;24.36518669128418
+Impartial Culture_15;Urn_0;923.0;18.14374613761902
+Impartial Culture_15;Urn_1;953.0;18.912338256835938
+Impartial Culture_15;Urn_2;985.0;18.017614364624023
+Impartial Culture_15;Urn_3;562.0;19.39538025856018
+Impartial Culture_15;Urn_4;563.0;25.35558819770813
+Impartial Culture_15;Urn_5;1104.0;32.218082904815674
+Impartial Culture_15;Urn_6;957.0;34.53960037231445
+Impartial Culture_15;Urn_7;534.0;34.74001407623291
+Impartial Culture_15;Urn_8;962.0;33.288349628448486
+Impartial Culture_15;Urn_9;736.0;36.60323882102966
+Impartial Culture_15;Urn_10;958.0;35.462878465652466
+Impartial Culture_15;Urn_11;1056.0;32.646486043930054
+Impartial Culture_15;Urn_12;929.0;35.61295437812805
+Impartial Culture_15;Urn_13;660.0;35.87478446960449
+Impartial Culture_15;Urn_14;904.0;35.354965686798096
+Impartial Culture_15;Urn_15;902.0;24.110805988311768
+Impartial Culture_15;Urn_16;1198.0;14.356022357940674
+Impartial Culture_15;Urn_17;1058.0;22.017692804336548
+Impartial Culture_15;Urn_18;683.0;36.696956634521484
+Impartial Culture_15;Urn_19;695.0;23.03273320198059
+Impartial Culture_15;Urn_20;1052.0;19.06212592124939
+Impartial Culture_15;Urn_21;1118.0;24.020872831344604
+Impartial Culture_15;Urn_22;815.0;19.896305799484253
+Impartial Culture_15;Urn_23;1208.0;14.256156921386719
+Impartial Culture_15;Urn_24;1002.0;17.173646688461304
+Impartial Culture_15;Urn_25;678.0;23.190191984176636
+Impartial Culture_15;Urn_26;509.0;18.261268377304077
+Impartial Culture_15;Urn_27;599.0;18.965161561965942
+Impartial Culture_15;Urn_28;1037.0;16.553540468215942
+Impartial Culture_15;Urn_29;619.0;22.350812911987305
+Impartial Culture_15;Urn_30;1010.0;19.78093385696411
+Impartial Culture_15;Urn_31;754.0;19.857715845108032
+Impartial Culture_15;Urn_32;1050.0;16.8998384475708
+Impartial Culture_15;Urn_33;913.0;19.284367561340332
+Impartial Culture_15;Urn_34;845.0;18.81400728225708
+Impartial Culture_15;Urn_35;837.0;19.050901174545288
+Impartial Culture_15;Urn_36;729.0;17.82109045982361
+Impartial Culture_15;Urn_37;836.0;19.673202991485596
+Impartial Culture_15;Urn_38;952.0;19.465052843093872
+Impartial Culture_15;Urn_39;1250.0;14.259262323379517
+Impartial Culture_15;Urn_40;859.0;24.506369829177856
+Impartial Culture_15;Urn_41;749.0;28.042957067489624
+Impartial Culture_15;Urn_42;479.0;20.29619574546814
+Impartial Culture_15;Urn_43;1100.0;16.296581029891968
+Impartial Culture_15;Urn_44;847.0;17.833926677703857
+Impartial Culture_15;Urn_45;818.0;18.85623836517334
+Impartial Culture_15;Urn_46;797.0;18.022844552993774
+Impartial Culture_15;Urn_47;679.0;19.75959539413452
+Impartial Culture_15;Mallows_0;483.0;17.348361015319824
+Impartial Culture_15;Mallows_1;651.0;21.411794185638428
+Impartial Culture_15;Mallows_2;1135.0;15.368203163146973
+Impartial Culture_15;Mallows_3;674.0;25.82747459411621
+Impartial Culture_15;Mallows_4;604.0;22.22036385536194
+Impartial Culture_15;Mallows_5;1179.0;21.1407368183136
+Impartial Culture_15;Mallows_6;1109.0;15.632786512374878
+Impartial Culture_15;Mallows_7;651.0;23.907147884368896
+Impartial Culture_15;Mallows_8;445.0;16.334458589553833
+Impartial Culture_15;Mallows_9;455.0;16.674416303634644
+Impartial Culture_15;Mallows_10;680.0;23.800954818725586
+Impartial Culture_15;Mallows_11;975.0;17.313040018081665
+Impartial Culture_15;Mallows_12;451.0;18.08708381652832
+Impartial Culture_15;Mallows_13;657.0;22.436311721801758
+Impartial Culture_15;Mallows_14;918.0;20.08745527267456
+Impartial Culture_15;Mallows_15;580.0;19.736972332000732
+Impartial Culture_15;Mallows_16;436.0;15.814797639846802
+Impartial Culture_15;Mallows_17;1135.0;15.460747718811035
+Impartial Culture_15;Mallows_18;797.0;20.35980987548828
+Impartial Culture_15;Mallows_19;898.0;21.8568594455719
+Impartial Culture_15;Mallows_20;474.0;17.328515768051147
+Impartial Culture_15;Mallows_21;971.0;17.952873945236206
+Impartial Culture_15;Mallows_22;651.0;23.38450050354004
+Impartial Culture_15;Mallows_23;587.0;20.573692083358765
+Impartial Culture_15;Mallows_24;847.0;21.521551370620728
+Impartial Culture_15;Mallows_25;1155.0;15.117791652679443
+Impartial Culture_15;Mallows_26;452.0;16.7061870098114
+Impartial Culture_15;Mallows_27;1038.0;16.74524712562561
+Impartial Culture_15;Mallows_28;1087.0;17.21373701095581
+Impartial Culture_15;Mallows_29;447.0;15.434610843658447
+Impartial Culture_15;Mallows_30;443.0;17.241373300552368
+Impartial Culture_15;Mallows_31;715.0;21.481112480163574
+Impartial Culture_15;Mallows_32;1191.0;16.206600189208984
+Impartial Culture_15;Mallows_33;438.0;16.884670734405518
+Impartial Culture_15;Mallows_34;629.0;21.6928493976593
+Impartial Culture_15;Mallows_35;456.0;18.790071487426758
+Impartial Culture_15;Mallows_36;500.0;20.78544569015503
+Impartial Culture_15;Mallows_37;1111.0;18.691667556762695
+Impartial Culture_15;Mallows_38;608.0;21.105290412902832
+Impartial Culture_15;Mallows_39;549.0;35.09305787086487
+Impartial Culture_15;Mallows_40;1057.0;31.577362060546875
+Impartial Culture_15;Mallows_41;477.0;22.58340620994568
+Impartial Culture_15;Mallows_42;1210.0;14.358338832855225
+Impartial Culture_15;Mallows_43;470.0;17.389522314071655
+Impartial Culture_15;Mallows_44;456.0;16.340346574783325
+Impartial Culture_15;Mallows_45;1046.0;16.72617220878601
+Impartial Culture_15;Mallows_46;646.0;22.630746603012085
+Impartial Culture_15;Mallows_47;1191.0;16.400399446487427
+Impartial Culture_15;UN_0;430.0;14.694654703140259
+Impartial Culture_15;UN_1;443.0;14.736747741699219
+Impartial Culture_15;UN_2;434.0;17.379236221313477
+Impartial Culture_15;UN_3;427.0;17.666663646697998
+Impartial Culture_15;ID;1250.0;16.080958127975464
+Impartial Culture_15;AN;950.0;15.467973709106445
+Impartial Culture_15;UNSTA;591.0;16.756942749023438
+Impartial Culture_15;UNSTB;720.0;18.531641960144043
+Impartial Culture_15;UNSTC;804.0;18.033626079559326
+Impartial Culture_15;ST_0;831.0;18.35059642791748
+Impartial Culture_15;ST_1;835.0;18.6082923412323
+Impartial Culture_15;ST_2;830.0;22.819446325302124
+Impartial Culture_15;ST_3;823.0;19.399054765701294
+Impartial Culture_15;IDSTA;975.0;20.94612765312195
+Impartial Culture_15;IDSTB;1080.0;17.129944324493408
+Impartial Culture_15;IDSTC;1160.0;16.801148176193237
+Impartial Culture_15;IDAN_0;1182.0;18.13256525993347
+Impartial Culture_15;IDAN_1;1130.0;15.336957216262817
+Impartial Culture_15;IDAN_2;1090.0;22.17019271850586
+Impartial Culture_15;IDAN_3;1060.0;16.40053129196167
+Impartial Culture_15;IDAN_4;1034.0;20.144984006881714
+Impartial Culture_15;IDAN_5;1012.0;17.99145007133484
+Impartial Culture_15;IDAN_6;992.0;16.601964235305786
+Impartial Culture_15;IDAN_7;974.0;29.972179651260376
+Impartial Culture_15;IDAN_8;964.0;32.232434034347534
+Impartial Culture_15;IDAN_9;954.0;31.134099006652832
+Impartial Culture_15;IDAN_10;950.0;30.783398389816284
+Impartial Culture_15;ANUN_0;889.0;31.258826971054077
+Impartial Culture_15;ANUN_1;849.0;31.449770212173462
+Impartial Culture_15;ANUN_2;785.0;31.580446481704712
+Impartial Culture_15;ANUN_3;729.0;28.294804334640503
+Impartial Culture_15;ANUN_4;679.0;17.4471218585968
+Impartial Culture_15;ANUN_5;623.0;23.445729970932007
+Impartial Culture_15;ANUN_6;576.0;18.84147596359253
+Impartial Culture_15;ANUN_7;531.0;21.35277485847473
+Impartial Culture_15;ANUN_8;515.0;34.338568687438965
+Impartial Culture_15;ANUN_9;469.0;30.568984270095825
+Impartial Culture_15;ANUN_10;438.0;28.386375904083252
+Impartial Culture_15;Irish_0;476.0;33.174909591674805
+Impartial Culture_15;Irish_1;529.0;33.16324758529663
+Impartial Culture_15;Irish_2;483.0;33.37570643424988
+Impartial Culture_15;Irish_3;517.0;32.12128210067749
+Impartial Culture_15;Irish_4;511.0;33.89808464050293
+Impartial Culture_15;Irish_5;522.0;33.17913460731506
+Impartial Culture_15;Irish_6;494.0;32.94478893280029
+Impartial Culture_15;Irish_7;546.0;33.98118758201599
+Impartial Culture_15;Sushi_0;531.0;25.732105016708374
+Impartial Culture_15;Sushi_1;563.0;19.62758469581604
+Impartial Culture_15;Sushi_2;557.0;19.78135871887207
+Impartial Culture_15;Sushi_3;538.0;19.374011039733887
+Impartial Culture_15;Sushi_4;510.0;21.86525583267212
+Impartial Culture_15;Sushi_5;559.0;20.646802186965942
+Impartial Culture_15;Sushi_6;514.0;20.743186235427856
+Impartial Culture_15;Sushi_7;510.0;18.450860023498535
+Impartial Culture_15;Grenoble_0;638.0;23.366134881973267
+Impartial Culture_15;Grenoble_1;633.0;26.02910041809082
+Impartial Culture_15;Grenoble_2;643.0;36.87318658828735
+Impartial Culture_15;Grenoble_3;620.0;38.03546142578125
+Impartial Culture_15;Grenoble_4;615.0;23.83083748817444
+Impartial Culture_15;Grenoble_5;633.0;21.447274446487427
+Impartial Culture_15;Grenoble_6;585.0;24.123114347457886
+Impartial Culture_15;Grenoble_7;632.0;20.762821197509766
+SP by Conitzer_0;SP by Conitzer_1;63.0;17.688188552856445
+SP by Conitzer_0;SP by Conitzer_2;182.0;21.532456159591675
+SP by Conitzer_0;SP by Conitzer_3;101.0;18.113752365112305
+SP by Conitzer_0;SP by Conitzer_4;82.0;18.672524452209473
+SP by Conitzer_0;SP by Conitzer_5;78.0;17.51759386062622
+SP by Conitzer_0;SP by Conitzer_6;67.0;18.673681497573853
+SP by Conitzer_0;SP by Conitzer_7;211.0;22.13662052154541
+SP by Conitzer_0;SP by Conitzer_8;59.0;18.273674726486206
+SP by Conitzer_0;SP by Conitzer_9;76.0;18.832809686660767
+SP by Conitzer_0;SP by Conitzer_10;90.0;31.038204193115234
+SP by Conitzer_0;SP by Conitzer_11;66.0;31.843218564987183
+SP by Conitzer_0;SP by Conitzer_12;85.0;24.428986072540283
+SP by Conitzer_0;SP by Conitzer_13;131.0;33.20890951156616
+SP by Conitzer_0;SP by Conitzer_14;69.0;20.999638319015503
+SP by Conitzer_0;SP by Conitzer_15;83.0;23.755154609680176
+SP by Conitzer_0;SP by Walsh_0;477.0;35.66931653022766
+SP by Conitzer_0;SP by Walsh_1;454.0;35.385138273239136
+SP by Conitzer_0;SP by Walsh_2;438.0;35.386932134628296
+SP by Conitzer_0;SP by Walsh_3;437.0;18.991827726364136
+SP by Conitzer_0;SP by Walsh_4;489.0;20.966267347335815
+SP by Conitzer_0;SP by Walsh_5;466.0;19.12993359565735
+SP by Conitzer_0;SP by Walsh_6;435.0;23.963812589645386
+SP by Conitzer_0;SP by Walsh_7;516.0;21.2263081073761
+SP by Conitzer_0;SP by Walsh_8;423.0;19.249890327453613
+SP by Conitzer_0;SP by Walsh_9;428.0;19.38917565345764
+SP by Conitzer_0;SP by Walsh_10;475.0;23.456919193267822
+SP by Conitzer_0;SP by Walsh_11;462.0;35.97411108016968
+SP by Conitzer_0;SP by Walsh_12;485.0;36.24132442474365
+SP by Conitzer_0;SP by Walsh_13;382.0;36.64272499084473
+SP by Conitzer_0;SP by Walsh_14;446.0;36.58863186836243
+SP by Conitzer_0;SP by Walsh_15;462.0;36.13668489456177
+SP by Conitzer_0;SPOC_0;457.0;33.20728874206543
+SP by Conitzer_0;SPOC_1;471.0;32.701899766922
+SP by Conitzer_0;SPOC_2;447.0;34.143293619155884
+SP by Conitzer_0;SPOC_3;445.0;32.57258415222168
+SP by Conitzer_0;SPOC_4;466.0;34.39560580253601
+SP by Conitzer_0;SPOC_5;467.0;34.31777620315552
+SP by Conitzer_0;SPOC_6;474.0;32.90582609176636
+SP by Conitzer_0;SPOC_7;433.0;29.805872440338135
+SP by Conitzer_0;SPOC_8;446.0;18.160637378692627
+SP by Conitzer_0;SPOC_9;436.0;21.160855293273926
+SP by Conitzer_0;SPOC_10;450.0;18.673024654388428
+SP by Conitzer_0;SPOC_11;422.0;32.40950870513916
+SP by Conitzer_0;SPOC_12;461.0;33.04146194458008
+SP by Conitzer_0;SPOC_13;465.0;32.56616544723511
+SP by Conitzer_0;SPOC_14;478.0;32.72543025016785
+SP by Conitzer_0;SPOC_15;428.0;32.62144470214844
+SP by Conitzer_0;Single-Crossing_0;456.0;20.983460903167725
+SP by Conitzer_0;Single-Crossing_1;400.0;18.15262508392334
+SP by Conitzer_0;Single-Crossing_2;531.0;18.143462419509888
+SP by Conitzer_0;Single-Crossing_3;547.0;18.21016526222229
+SP by Conitzer_0;Single-Crossing_4;509.0;18.90962553024292
+SP by Conitzer_0;Single-Crossing_5;600.0;18.038305521011353
+SP by Conitzer_0;Single-Crossing_6;450.0;18.487905979156494
+SP by Conitzer_0;Single-Crossing_7;489.0;20.92264437675476
+SP by Conitzer_0;Single-Crossing_8;437.0;20.114396572113037
+SP by Conitzer_0;Single-Crossing_9;413.0;20.26205325126648
+SP by Conitzer_0;Single-Crossing_10;477.0;18.39021110534668
+SP by Conitzer_0;Single-Crossing_11;593.0;18.36791968345642
+SP by Conitzer_0;Single-Crossing_12;443.0;19.636614084243774
+SP by Conitzer_0;Single-Crossing_13;566.0;20.603237628936768
+SP by Conitzer_0;Single-Crossing_14;483.0;18.548930168151855
+SP by Conitzer_0;Single-Crossing_15;491.0;18.341152667999268
+SP by Conitzer_0;GS Balanced_0;489.0;16.96442723274231
+SP by Conitzer_0;GS Balanced_1;488.0;17.24323010444641
+SP by Conitzer_0;GS Balanced_2;503.0;18.569634675979614
+SP by Conitzer_0;GS Balanced_3;538.0;17.47897982597351
+SP by Conitzer_0;GS Balanced_4;516.0;17.153557777404785
+SP by Conitzer_0;GS Balanced_5;506.0;18.13778853416443
+SP by Conitzer_0;GS Balanced_6;495.0;21.8145694732666
+SP by Conitzer_0;GS Balanced_7;461.0;17.18494725227356
+SP by Conitzer_0;GS Balanced_8;499.0;17.061904668807983
+SP by Conitzer_0;GS Balanced_9;505.0;25.222064971923828
+SP by Conitzer_0;GS Balanced_10;497.0;32.27795720100403
+SP by Conitzer_0;GS Balanced_11;472.0;28.695508241653442
+SP by Conitzer_0;GS Balanced_12;501.0;16.97010326385498
+SP by Conitzer_0;GS Balanced_13;480.0;16.88555908203125
+SP by Conitzer_0;GS Balanced_14;507.0;18.50983428955078
+SP by Conitzer_0;GS Balanced_15;506.0;17.00760579109192
+SP by Conitzer_0;GS Caterpillar_0;725.0;16.999618530273438
+SP by Conitzer_0;GS Caterpillar_1;711.0;18.398425340652466
+SP by Conitzer_0;GS Caterpillar_2;719.0;19.3362820148468
+SP by Conitzer_0;GS Caterpillar_3;744.0;20.020069122314453
+SP by Conitzer_0;GS Caterpillar_4;686.0;17.938326597213745
+SP by Conitzer_0;GS Caterpillar_5;723.0;19.052037000656128
+SP by Conitzer_0;GS Caterpillar_6;725.0;17.032756090164185
+SP by Conitzer_0;GS Caterpillar_7;720.0;17.285479068756104
+SP by Conitzer_0;GS Caterpillar_8;755.0;25.327910661697388
+SP by Conitzer_0;GS Caterpillar_9;739.0;32.02857995033264
+SP by Conitzer_0;GS Caterpillar_10;733.0;32.586363077163696
+SP by Conitzer_0;GS Caterpillar_11;747.0;32.34023928642273
+SP by Conitzer_0;GS Caterpillar_12;707.0;32.68413543701172
+SP by Conitzer_0;GS Caterpillar_13;742.0;32.2642080783844
+SP by Conitzer_0;GS Caterpillar_14;711.0;32.09995365142822
+SP by Conitzer_0;GS Caterpillar_15;745.0;21.379436254501343
+SP by Conitzer_0;Interval_0;154.0;17.56921648979187
+SP by Conitzer_0;Interval_1;223.0;16.807116508483887
+SP by Conitzer_0;Interval_2;373.0;18.442330837249756
+SP by Conitzer_0;Interval_3;205.0;17.178564071655273
+SP by Conitzer_0;Interval_4;193.0;21.61673140525818
+SP by Conitzer_0;Interval_5;231.0;17.074799060821533
+SP by Conitzer_0;Interval_6;561.0;17.858923196792603
+SP by Conitzer_0;Interval_7;125.0;18.4656879901886
+SP by Conitzer_0;Interval_8;493.0;17.95152497291565
+SP by Conitzer_0;Interval_9;234.0;16.434589624404907
+SP by Conitzer_0;Interval_10;129.0;21.31575870513916
+SP by Conitzer_0;Interval_11;334.0;17.513203144073486
+SP by Conitzer_0;Interval_12;200.0;19.596784114837646
+SP by Conitzer_0;Interval_13;365.0;17.410595178604126
+SP by Conitzer_0;Interval_14;232.0;19.256442070007324
+SP by Conitzer_0;Interval_15;366.0;17.76399803161621
+SP by Conitzer_0;Square_0;477.0;18.306010723114014
+SP by Conitzer_0;Square_1;441.0;19.947386741638184
+SP by Conitzer_0;Square_2;446.0;19.668213367462158
+SP by Conitzer_0;Square_3;333.0;21.67606258392334
+SP by Conitzer_0;Square_4;494.0;20.808622121810913
+SP by Conitzer_0;Square_5;499.0;17.397568702697754
+SP by Conitzer_0;Square_6;422.0;18.41619873046875
+SP by Conitzer_0;Square_7;506.0;22.92417621612549
+SP by Conitzer_0;Square_8;377.0;18.342823266983032
+SP by Conitzer_0;Square_9;448.0;17.577399015426636
+SP by Conitzer_0;Square_10;410.0;20.90911555290222
+SP by Conitzer_0;Square_11;439.0;17.385445594787598
+SP by Conitzer_0;Square_12;461.0;18.5091872215271

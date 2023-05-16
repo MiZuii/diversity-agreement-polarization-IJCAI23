@@ -1,0 +1,6 @@
+size;num_candidates;num_voters;culture_id;params;color;alpha;family_id;marker;path;label
+350;8;96;mallows_triangle;{};blue;1;Mallows;p;{};Mallows (triangle)
+1;8;96;un_from_matrix;{};red;1;UN;3;{};UN
+1;8;96;real_identity;{};red;1;ID;3;{};ID
+1;8;96;real_antagonism;{};red;1;AN;3;{};AN
+1;8;96;unst_topsize;{'top_share': .5};red;1;ST;3;{};ST

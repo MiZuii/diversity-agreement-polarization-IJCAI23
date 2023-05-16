@@ -1,0 +1,16 @@
+size;num_candidates;num_voters;culture_id;params;color;alpha;family_id;marker;show;path;label
+1;8;1000;norm-mallows;{'norm-phi': 0};cyan;1;Norm-Mallows 0;o;t;{};Mallows 0
+1;8;1000;norm-mallows;{'norm-phi': 0.05};cyan;1;Norm-Mallows 0.05;o;t;{};Mallows 0.05
+1;8;1000;norm-mallows;{'norm-phi': 0.2};cyan;1;Norm-Mallows 0.2;o;t;{};Mallows 0.2
+1;8;1000;norm-mallows;{'norm-phi': 0.5};cyan;1;Norm-Mallows 0.5;o;t;{};Mallows 0.5
+1;8;1000;norm-mallows;{'norm-phi': 1};cyan;1;Norm-Mallows 1;o;t;{};Mallows 1
+1;8;1000;norm-mallows;{'weight': 0.25, 'norm-phi': 0};cyan;1;0.25-Norm-Mallows 0;o;t;{};0.25-Mallows 0
+1;8;1000;norm-mallows;{'weight': 0.25, 'norm-phi': 0.05};cyan;1;0.25-Norm-Mallows 0.05;o;t;{};0.25-Mallows 0.05
+1;8;1000;norm-mallows;{'weight': 0.25, 'norm-phi': 0.2};cyan;1;0.25-Norm-Mallows 0.2;o;t;{};0.25-Mallows 0.2
+1;8;1000;norm-mallows;{'weight': 0.25, 'norm-phi': 0.5};cyan;1;0.25-Norm-Mallows 0.5;o;t;{};0.25-Mallows 0.5
+1;8;1000;norm-mallows;{'weight': 0.25, 'norm-phi': 1};cyan;1;0.25-Norm-Mallows 1;o;t;{};0.25-Mallows 1
+1;8;1000;norm-mallows;{'weight': 0.5, 'norm-phi': 0};cyan;1;0.5-Norm-Mallows 0;o;t;{};0.5-Mallows 0
+1;8;1000;norm-mallows;{'weight': 0.5, 'norm-phi': 0.05};cyan;1;0.5-Norm-Mallows 0.05;o;t;{};0.5-Mallows 0.05
+1;8;1000;norm-mallows;{'weight': 0.5, 'norm-phi': 0.2};cyan;1;0.5-Norm-Mallows 0.2;o;t;{};0.5-Mallows 0.2
+1;8;1000;norm-mallows;{'weight': 0.5, 'norm-phi': 0.5};cyan;1;0.5-Norm-Mallows 0.5;o;t;{};0.5-Mallows 0.5
+1;8;1000;norm-mallows;{'weight': 0.5, 'norm-phi': 1};cyan;1;0.5-Norm-Mallows 1;o;t;{};0.5-Mallows 1

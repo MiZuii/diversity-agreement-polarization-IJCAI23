@@ -1,0 +1,32 @@
+size;num_candidates;num_voters;culture_id;params;color;alpha;family_id;marker;path;label
+16;8;96;impartial_culture;{};black;1;Impartial Culture;p;{};Impartial Culture
+16;8;96;conitzer;{};blueviolet;0.8;SP by Conitzer;^;{};SP by Conitzer
+16;8;96;walsh;{};indigo;0.8;SP by Walsh;^;{};SP by Walsh
+16;8;96;spoc_conitzer;{};dodgerblue;0.8;SPOC;^;{};SPOC
+16;8;96;single-crossing;{};crimson;0.8;Single-Crossing;^;{};Single-Crossing
+16;8;96;group-separable;{'tree': 'balanced'};mediumvioletred;0.8;GS Balanced;^;{};GS Balanced
+16;8;96;group-separable;{'tree': 'caterpillar'};fuchsia;0.8;GS Caterpillar;^;{};GS Caterpillar
+16;8;96;1d_interval;{'dim': 1};limegreen;0.7;Interval;s;{};Interval
+16;8;96;2d_square;{'dim': 2};forestgreen;0.7;Square;s;{};Square
+16;8;96;3d_cube;{'dim': 3};green;0.7;Cube;s;{};Cube
+8;8;96;5d_cube;{'dim': 5};darkgreen;0.7;5-Cube;s;{};5-Cube
+8;8;96;10d_cube;{'dim': 10};darkgreen;0.7;10-Cube;s;{};10-Cube
+16;8;96;2d_sphere;{'dim': 2};springgreen;0.7;Circle;o;{};Circle
+16;8;96;3d_sphere;{'dim': 3};mediumaquamarine;0.7;Sphere;o;{};Sphere
+48;8;96;urn_model;{};orange;1;Urn;p;{};Urn
+48;8;96;norm-mallows;{};blue;1;Mallows;p;{};Mallows
+4;8;96;un_from_matrix;{};red;1;UN;3;{};UN
+1;8;96;real_identity;{};red;1;ID;3;{};ID
+1;8;96;real_antagonism;{};red;1;AN;3;{};AN
+1;8;96;unst_topsize;{'top_share': .125};gray;1;UNSTA;3;{};UNSTA
+1;8;96;unst_topsize;{'top_share': .25};gray;1;UNSTB;3;{};UNSTB
+1;8;96;unst_topsize;{'top_share': .375};gray;1;UNSTC;3;{};UNSTC
+4;8;96;unst_topsize;{'top_share': .5};red;1;ST;3;{};ST
+1;8;96;idst_blocks;{'no_blocks': 3};gray;1;IDSTA;3;{};IDSTA
+1;8;96;idst_blocks;{'no_blocks': 4};gray;1;IDSTB;3;{};IDSTB
+1;8;96;idst_blocks;{'no_blocks': 6};gray;1;IDSTC;3;{};IDSTC
+11;8;96;idan_part;{};gray;1;IDAN;3;{'variable' : 'part_share'};IDAN
+11;8;96;anun_part;{};gray;1;ANUN;3;{'variable' : 'part_share'};ANUN
+8;8;96;irish;{};lawngreen;0.8;Irish;*;{};Irish
+8;8;96;sushi;{};salmon;0.8;Sushi;*;{};Sushi
+8;8;96;grenoble;{};gold;0.8;Grenoble;*;{};Grenoble

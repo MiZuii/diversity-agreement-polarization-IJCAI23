@@ -1,0 +1,23 @@
+size;num_candidates;num_voters;culture_id;params;color;alpha;family_id;marker;show;path;label
+
+1;8;1000;real_identity;{};blue;1;ID;x;t;{};Identity
+1;8;1000;norm-mallows;{'norm-phi': 0.05};cyan;1;Norm-Mallows 0.05;o;t;{};N-Mal. 0.05
+1;8;1000;norm-mallows;{'norm-phi': 0.2};cyan;1;Norm-Mallows 0.2;o;t;{};N-Mal. 0.2
+1;8;1000;norm-mallows;{'norm-phi': 0.5};cyan;1;Norm-Mallows 0.5;o;t;{};N-Mal. 0.5
+1;8;1000;impartial_culture;{};black;1;Impartial Culture;o;t;{};Impartial Culture
+
+1;8;1000;real_antagonism;{};red;1;AN;x;t;{};Antagonism
+1;8;1000;urn_model;{'alpha': 1.};orange;1;Urn 1;o;t;{};Urn 1
+1;8;1000;urn_model;{'alpha': 0.2};orange;1;Urn 0.2;o;t;{};Urn 0.2
+1;8;1000;2d_sphere;{'dim': 2};black;0.2;2D Sphere;o;t;{};Circle
+1;8;1000;irish;{'id': 1};black;1;Irish;o;t;{};Irish
+
+
+1;8;1000;walsh;{};olivedrab;1;SP by Walsh;o;t;{};SP by Walsh
+1;8;1000;conitzer;{};limegreen;1;SP by Conitzer;o;t;{};SP by Conitzer
+1;8;1000;euclidean;{'dim': 1, 'space': 'uniform'};DarkGreen;1;1D Uniform;o;t;{};Interval
+1;8;1000;euclidean;{'dim': 2, 'space': 'uniform'};Green;1;2D Uniform;o;t;{};Square
+1;8;1000;euclidean;{'dim': 3, 'space': 'uniform'};ForestGreen;0.7;3D Uniform;o;t;{};Cube
+
+
+

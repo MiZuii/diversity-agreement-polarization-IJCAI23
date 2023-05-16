@@ -1,0 +1,836 @@
+instance_id_1;instance_id_2;distance;time
+Single-Crossing_6;ST_1;625.0;30.8381245136261
+Single-Crossing_6;ST_2;630.0;19.167853832244873
+Single-Crossing_6;ST_3;643.0;19.36352825164795
+Single-Crossing_6;IDSTA;715.0;17.94127058982849
+Single-Crossing_6;IDSTB;706.0;16.984865188598633
+Single-Crossing_6;IDSTC;702.0;17.087836980819702
+Single-Crossing_6;IDAN_0;724.0;26.61244773864746
+Single-Crossing_6;IDAN_1;708.0;29.868079900741577
+Single-Crossing_6;IDAN_2;686.0;30.902278184890747
+Single-Crossing_6;IDAN_3;668.0;31.183757305145264
+Single-Crossing_6;IDAN_4;652.0;18.302995681762695
+Single-Crossing_6;IDAN_5;636.0;19.868868827819824
+Single-Crossing_6;IDAN_6;622.0;16.616650819778442
+Single-Crossing_6;IDAN_7;614.0;15.887301206588745
+Single-Crossing_6;IDAN_8;608.0;15.755796909332275
+Single-Crossing_6;IDAN_9;600.0;16.208186864852905
+Single-Crossing_6;IDAN_10;598.0;17.68116021156311
+Single-Crossing_6;ANUN_0;603.0;16.1826274394989
+Single-Crossing_6;ANUN_1;607.0;17.880257844924927
+Single-Crossing_6;ANUN_2;613.0;17.555052280426025
+Single-Crossing_6;ANUN_3;629.0;17.528873443603516
+Single-Crossing_6;ANUN_4;631.0;19.699522256851196
+Single-Crossing_6;ANUN_5;659.0;30.79111099243164
+Single-Crossing_6;ANUN_6;688.0;34.88434338569641
+Single-Crossing_6;ANUN_7;717.0;35.926764488220215
+Single-Crossing_6;ANUN_8;717.0;35.29708981513977
+Single-Crossing_6;ANUN_9;797.0;35.553086042404175
+Single-Crossing_6;ANUN_10;824.0;35.12646293640137
+Single-Crossing_6;Irish_0;684.0;37.05469274520874
+Single-Crossing_6;Irish_1;589.0;37.7347629070282
+Single-Crossing_6;Irish_2;649.0;37.912068128585815
+Single-Crossing_6;Irish_3;597.0;37.03538370132446
+Single-Crossing_6;Irish_4;565.0;37.714749574661255
+Single-Crossing_6;Irish_5;572.0;37.04358625411987
+Single-Crossing_6;Irish_6;652.0;36.91603446006775
+Single-Crossing_6;Irish_7;578.0;37.44184231758118
+Single-Crossing_6;Sushi_0;641.0;38.99885416030884
+Single-Crossing_6;Sushi_1;607.0;38.26743793487549
+Single-Crossing_6;Sushi_2;587.0;37.81895470619202
+Single-Crossing_6;Sushi_3;620.0;38.09616684913635
+Single-Crossing_6;Sushi_4;656.0;36.68276643753052
+Single-Crossing_6;Sushi_5;587.0;37.82946705818176
+Single-Crossing_6;Sushi_6;642.0;37.95669436454773
+Single-Crossing_6;Sushi_7;628.0;37.231412172317505
+Single-Crossing_6;Grenoble_0;530.0;37.770681381225586
+Single-Crossing_6;Grenoble_1;577.0;37.60518717765808
+Single-Crossing_6;Grenoble_2;599.0;37.41895627975464
+Single-Crossing_6;Grenoble_3;584.0;38.03135395050049
+Single-Crossing_6;Grenoble_4;595.0;36.80510497093201
+Single-Crossing_6;Grenoble_5;551.0;37.51040315628052
+Single-Crossing_6;Grenoble_6;569.0;38.51818013191223
+Single-Crossing_6;Grenoble_7;574.0;37.58644342422485
+Single-Crossing_7;Single-Crossing_8;312.0;35.99581599235535
+Single-Crossing_7;Single-Crossing_9;406.0;36.41053795814514
+Single-Crossing_7;Single-Crossing_10;372.0;36.1163170337677
+Single-Crossing_7;Single-Crossing_11;380.0;36.0198540687561
+Single-Crossing_7;Single-Crossing_12;324.0;36.566707372665405
+Single-Crossing_7;Single-Crossing_13;359.0;32.77093839645386
+Single-Crossing_7;Single-Crossing_14;404.0;35.897074699401855
+Single-Crossing_7;Single-Crossing_15;312.0;37.29593110084534
+Single-Crossing_7;GS Balanced_0;700.0;33.8528470993042
+Single-Crossing_7;GS Balanced_1;671.0;18.33243465423584
+Single-Crossing_7;GS Balanced_2;700.0;20.990501403808594
+Single-Crossing_7;GS Balanced_3;693.0;32.41589617729187
+Single-Crossing_7;GS Balanced_4;689.0;34.61639451980591
+Single-Crossing_7;GS Balanced_5;707.0;28.625518560409546
+Single-Crossing_7;GS Balanced_6;692.0;26.034106254577637
+Single-Crossing_7;GS Balanced_7;688.0;18.335418939590454
+Single-Crossing_7;GS Balanced_8;694.0;18.327565908432007
+Single-Crossing_7;GS Balanced_9;704.0;25.35544514656067
+Single-Crossing_7;GS Balanced_10;698.0;18.729689836502075
+Single-Crossing_7;GS Balanced_11;681.0;18.084475994110107
+Single-Crossing_7;GS Balanced_12;692.0;21.9109206199646
+Single-Crossing_7;GS Balanced_13;699.0;21.338541269302368
+Single-Crossing_7;GS Balanced_14;670.0;18.193344831466675
+Single-Crossing_7;GS Balanced_15;695.0;18.43481731414795
+Single-Crossing_7;GS Caterpillar_0;818.0;22.90944004058838
+Single-Crossing_7;GS Caterpillar_1;782.0;22.844022035598755
+Single-Crossing_7;GS Caterpillar_2;758.0;28.87010145187378
+Single-Crossing_7;GS Caterpillar_3;797.0;19.734527111053467
+Single-Crossing_7;GS Caterpillar_4;789.0;19.806925535202026
+Single-Crossing_7;GS Caterpillar_5;778.0;25.944744110107422
+Single-Crossing_7;GS Caterpillar_6;796.0;24.601369380950928
+Single-Crossing_7;GS Caterpillar_7;783.0;21.527469635009766
+Single-Crossing_7;GS Caterpillar_8;794.0;21.706804752349854
+Single-Crossing_7;GS Caterpillar_9;808.0;19.883877754211426
+Single-Crossing_7;GS Caterpillar_10;820.0;19.762309074401855
+Single-Crossing_7;GS Caterpillar_11;804.0;28.557637453079224
+Single-Crossing_7;GS Caterpillar_12;790.0;23.637269973754883
+Single-Crossing_7;GS Caterpillar_13;797.0;20.083046674728394
+Single-Crossing_7;GS Caterpillar_14;788.0;20.123857975006104
+Single-Crossing_7;GS Caterpillar_15;792.0;23.13772678375244
+Single-Crossing_7;Interval_0;429.0;24.718297481536865
+Single-Crossing_7;Interval_1;526.0;18.058088064193726
+Single-Crossing_7;Interval_2;270.0;20.78374934196472
+Single-Crossing_7;Interval_3;458.0;19.18100094795227
+Single-Crossing_7;Interval_4;386.0;21.31033754348755
+Single-Crossing_7;Interval_5;462.0;21.134759426116943
+Single-Crossing_7;Interval_6;404.0;19.20467519760132
+Single-Crossing_7;Interval_7;486.0;20.01905131340027
+Single-Crossing_7;Interval_8;358.0;18.448723554611206
+Single-Crossing_7;Interval_9;521.0;17.371575117111206
+Single-Crossing_7;Interval_10;442.0;20.72827911376953
+Single-Crossing_7;Interval_11;451.0;18.192941427230835
+Single-Crossing_7;Interval_12;473.0;18.760429620742798
+Single-Crossing_7;Interval_13;408.0;21.37993359565735
+Single-Crossing_7;Interval_14;415.0;21.48403763771057
+Single-Crossing_7;Interval_15;379.0;19.529181957244873
+Single-Crossing_7;Square_0;514.0;19.527287244796753
+Single-Crossing_7;Square_1;564.0;19.70757246017456
+Single-Crossing_7;Square_2;561.0;21.980427503585815
+Single-Crossing_7;Square_3;498.0;29.365086793899536
+Single-Crossing_7;Square_4;531.0;38.52751159667969
+Single-Crossing_7;Square_5;602.0;37.030938148498535
+Single-Crossing_7;Square_6;473.0;36.43265509605408
+Single-Crossing_7;Square_7;525.0;30.500468969345093
+Single-Crossing_7;Square_8;458.0;19.136179447174072
+Single-Crossing_7;Square_9;535.0;19.40790343284607
+Single-Crossing_7;Square_10;421.0;19.392584085464478
+Single-Crossing_7;Square_11;508.0;21.694061994552612
+Single-Crossing_7;Square_12;464.0;38.035582304000854
+Single-Crossing_7;Square_13;522.0;36.80907201766968
+Single-Crossing_7;Square_14;561.0;36.52510857582092
+Single-Crossing_7;Square_15;585.0;36.35081505775452
+Single-Crossing_7;Cube_0;566.0;20.259050369262695
+Single-Crossing_7;Cube_1;635.0;21.19223165512085
+Single-Crossing_7;Cube_2;635.0;22.08581805229187
+Single-Crossing_7;Cube_3;575.0;21.446503400802612
+Single-Crossing_7;Cube_4;522.0;20.061033248901367
+Single-Crossing_7;Cube_5;604.0;22.95166301727295
+Single-Crossing_7;Cube_6;436.0;19.875293016433716
+Single-Crossing_7;Cube_7;580.0;20.041473627090454
+Single-Crossing_7;Cube_8;535.0;20.68526864051819
+Single-Crossing_7;Cube_9;450.0;22.221754789352417
+Single-Crossing_7;Cube_10;591.0;20.312241077423096
+Single-Crossing_7;Cube_11;509.0;20.058067560195923
+Single-Crossing_7;Cube_12;548.0;23.16215181350708
+Single-Crossing_7;Cube_13;578.0;22.729480504989624
+Single-Crossing_7;Cube_14;513.0;21.303313732147217
+Single-Crossing_7;Cube_15;548.0;20.30172109603882
+Single-Crossing_7;5-Cube_0;641.0;25.046228170394897
+Single-Crossing_7;5-Cube_1;556.0;20.769651412963867
+Single-Crossing_7;5-Cube_2;562.0;20.887780904769897
+Single-Crossing_7;5-Cube_3;626.0;20.82456612586975
+Single-Crossing_7;5-Cube_4;608.0;21.454790115356445
+Single-Crossing_7;5-Cube_5;573.0;22.64687204360962
+Single-Crossing_7;5-Cube_6;706.0;20.351816415786743
+Single-Crossing_7;5-Cube_7;480.0;24.333860874176025
+Single-Crossing_7;10-Cube_0;504.0;21.552409887313843
+Single-Crossing_7;10-Cube_1;645.0;20.57755470275879
+Single-Crossing_7;10-Cube_2;699.0;20.69306445121765
+Single-Crossing_7;10-Cube_3;643.0;20.621575593948364
+Single-Crossing_7;10-Cube_4;645.0;31.213836431503296
+Single-Crossing_7;10-Cube_5;543.0;20.814255475997925
+Single-Crossing_7;10-Cube_6;569.0;24.173916578292847
+Single-Crossing_7;10-Cube_7;752.0;28.635180950164795
+Single-Crossing_7;Circle_0;669.0;35.12890267372131
+Single-Crossing_7;Circle_1;651.0;35.04066443443298
+Single-Crossing_7;Circle_2;626.0;34.80794620513916
+Single-Crossing_7;Circle_3;614.0;35.274521350860596
+Single-Crossing_7;Circle_4;691.0;35.81237196922302
+Single-Crossing_7;Circle_5;695.0;35.46632647514343
+Single-Crossing_7;Circle_6;666.0;35.06103253364563
+Single-Crossing_7;Circle_7;678.0;35.955852031707764
+Single-Crossing_7;Circle_8;658.0;34.83406972885132
+Single-Crossing_7;Circle_9;685.0;36.16325306892395
+Single-Crossing_7;Circle_10;594.0;35.677690267562866
+Single-Crossing_7;Circle_11;678.0;35.0718297958374
+Single-Crossing_7;Circle_12;663.0;35.25058150291443
+Single-Crossing_7;Circle_13;699.0;35.64414095878601
+Single-Crossing_7;Circle_14;683.0;34.904245138168335
+Single-Crossing_7;Circle_15;679.0;35.328364610672
+Single-Crossing_7;Sphere_0;673.0;34.76427125930786
+Single-Crossing_7;Sphere_1;702.0;19.979873180389404
+Single-Crossing_7;Sphere_2;702.0;19.21894884109497
+Single-Crossing_7;Sphere_3;707.0;19.89683771133423
+Single-Crossing_7;Sphere_4;693.0;22.70568013191223
+Single-Crossing_7;Sphere_5;708.0;24.385441303253174
+Single-Crossing_7;Sphere_6;671.0;22.69474768638611
+Single-Crossing_7;Sphere_7;684.0;19.64379572868347
+Single-Crossing_7;Sphere_8;692.0;19.441057682037354
+Single-Crossing_7;Sphere_9;697.0;19.427099466323853
+Single-Crossing_7;Sphere_10;655.0;20.470688343048096
+Single-Crossing_7;Sphere_11;662.0;21.767980575561523
+Single-Crossing_7;Sphere_12;701.0;19.40084457397461
+Single-Crossing_7;Sphere_13;695.0;19.36992859840393
+Single-Crossing_7;Sphere_14;675.0;21.743797302246094
+Single-Crossing_7;Sphere_15;663.0;19.592719316482544
+Single-Crossing_7;Urn_0;462.0;18.48626136779785
+Single-Crossing_7;Urn_1;560.0;19.053687572479248
+Single-Crossing_7;Urn_2;526.0;17.37681818008423
+Single-Crossing_7;Urn_3;685.0;25.38175320625305
+Single-Crossing_7;Urn_4;734.0;19.338565826416016
+Single-Crossing_7;Urn_5;597.0;15.121649265289307
+Single-Crossing_7;Urn_6;494.0;16.887197256088257
+Single-Crossing_7;Urn_7;729.0;19.398667097091675
+Single-Crossing_7;Urn_8;475.0;19.61524271965027
+Single-Crossing_7;Urn_9;621.0;33.14989709854126
+Single-Crossing_7;Urn_10;511.0;33.39000868797302
+Single-Crossing_7;Urn_11;593.0;32.35148644447327
+Single-Crossing_7;Urn_12;552.0;33.23840379714966
+Single-Crossing_7;Urn_13;693.0;35.59384489059448
+Single-Crossing_7;Urn_14;535.0;34.71492886543274
+Single-Crossing_7;Urn_15;587.0;34.13703465461731
+Single-Crossing_7;Urn_16;655.0;28.696595191955566
+Single-Crossing_7;Urn_17;613.0;30.191579580307007
+Single-Crossing_7;Urn_18;708.0;36.438130378723145
+Single-Crossing_7;Urn_19;654.0;35.87539529800415
+Single-Crossing_7;Urn_20;565.0;31.512165546417236
+Single-Crossing_7;Urn_21;619.0;30.742244243621826
+Single-Crossing_7;Urn_22;504.0;35.44455552101135
+Single-Crossing_7;Urn_23;649.0;28.91101360321045
+Single-Crossing_7;Urn_24;577.0;27.48781943321228
+Single-Crossing_7;Urn_25;635.0;18.514002561569214
+Single-Crossing_7;Urn_26;740.0;20.923041582107544
+Single-Crossing_7;Urn_27;758.0;21.17504572868347
+Single-Crossing_7;Urn_28;518.0;16.263834476470947
+Single-Crossing_7;Urn_29;690.0;31.55788016319275
+Single-Crossing_7;Urn_30;471.0;32.721418380737305
+Single-Crossing_7;Urn_31;563.0;35.37185192108154
+Single-Crossing_7;Urn_32;575.0;32.04527235031128
+Single-Crossing_7;Urn_33;578.0;31.93557572364807
+Single-Crossing_7;Urn_34;550.0;18.66337823867798
+Single-Crossing_7;Urn_35;532.0;17.79639196395874
+Single-Crossing_7;Urn_36;644.0;18.658446550369263
+Single-Crossing_7;Urn_37;611.0;20.079295873641968
+Single-Crossing_7;Urn_38;557.0;17.24610209465027
+Single-Crossing_7;Urn_39;673.0;14.011539936065674
+Single-Crossing_7;Urn_40;596.0;18.12739849090576
+Single-Crossing_7;Urn_41;598.0;22.883976459503174
+Single-Crossing_7;Urn_42;790.0;21.978658199310303
+Single-Crossing_7;Urn_43;591.0;16.769266843795776
+Single-Crossing_7;Urn_44;578.0;17.822712421417236
+Single-Crossing_7;Urn_45;603.0;21.708345413208008
+Single-Crossing_7;Urn_46;510.0;17.79861330986023
+Single-Crossing_7;Urn_47;588.0;19.405450105667114
+Single-Crossing_7;Mallows_0;680.0;21.684064865112305
+Single-Crossing_7;Mallows_1;572.0;29.38694429397583
+Single-Crossing_7;Mallows_2;600.0;30.2877254486084
+Single-Crossing_7;Mallows_3;593.0;39.153310775756836
+Single-Crossing_7;Mallows_4;587.0;40.56039619445801
+Single-Crossing_7;Mallows_5;618.0;29.108108282089233
+Single-Crossing_7;Mallows_6;588.0;30.98735737800598
+Single-Crossing_7;Mallows_7;556.0;39.84607481956482
+Single-Crossing_7;Mallows_8;782.0;41.334949254989624
+Single-Crossing_7;Mallows_9;752.0;38.242350578308105
+Single-Crossing_7;Mallows_10;559.0;38.59708499908447
+Single-Crossing_7;Mallows_11;528.0;33.46798038482666
+Single-Crossing_7;Mallows_12;740.0;39.21779251098633
+Single-Crossing_7;Mallows_13;570.0;38.90628433227539
+Single-Crossing_7;Mallows_14;561.0;34.910971879959106
+Single-Crossing_7;Mallows_15;585.0;39.49505567550659
+Single-Crossing_7;Mallows_16;785.0;38.3950731754303
+Single-Crossing_7;Mallows_17;600.0;20.789865255355835
+Single-Crossing_7;Mallows_18;542.0;20.95339798927307
+Single-Crossing_7;Mallows_19;521.0;18.717089891433716
+Single-Crossing_7;Mallows_20;687.0;22.253156900405884
+Single-Crossing_7;Mallows_21;572.0;24.613942623138428
+Single-Crossing_7;Mallows_22;570.0;24.49061346054077
+Single-Crossing_7;Mallows_23;606.0;22.28777241706848
+Single-Crossing_7;Mallows_24;536.0;20.79991316795349
+Single-Crossing_7;Mallows_25;608.0;16.780831813812256
+Single-Crossing_7;Mallows_26;725.0;21.89985942840576
+Single-Crossing_7;Mallows_27;553.0;17.80222988128662
+Single-Crossing_7;Mallows_28;576.0;16.01184892654419
+Single-Crossing_7;Mallows_29;782.0;22.4538676738739
+Single-Crossing_7;Mallows_30;796.0;25.76909065246582
+Single-Crossing_7;Mallows_31;552.0;25.700820922851562
+Single-Crossing_7;Mallows_32;620.0;14.447052717208862
+Single-Crossing_7;Mallows_33;811.0;20.727951288223267
+Single-Crossing_7;Mallows_34;574.0;21.4313862323761
+Single-Crossing_7;Mallows_35;755.0;24.35269784927368
+Single-Crossing_7;Mallows_36;627.0;21.56779646873474
+Single-Crossing_7;Mallows_37;574.0;16.293654441833496
+Single-Crossing_7;Mallows_38;585.0;26.12950611114502
+Single-Crossing_7;Mallows_39;608.0;21.585997819900513
+Single-Crossing_7;Mallows_40;578.0;26.253705739974976
+Single-Crossing_7;Mallows_41;686.0;39.01353311538696
+Single-Crossing_7;Mallows_42;637.0;29.83737540245056
+Single-Crossing_7;Mallows_43;681.0;38.73569464683533
+Single-Crossing_7;Mallows_44;757.0;39.29399037361145
+Single-Crossing_7;Mallows_45;559.0;32.10171341896057
+Single-Crossing_7;Mallows_46;579.0;39.4211311340332
+Single-Crossing_7;Mallows_47;630.0;20.970390558242798
+Single-Crossing_7;UN_0;843.0;20.724409818649292
+Single-Crossing_7;UN_1;852.0;33.434611558914185
+Single-Crossing_7;UN_2;853.0;38.177104234695435
+Single-Crossing_7;UN_3;868.0;39.11119318008423
+Single-Crossing_7;ID;673.0;28.586461782455444
+Single-Crossing_7;AN;671.0;32.63569903373718
+Single-Crossing_7;UNSTA;774.0;40.55856513977051
+Single-Crossing_7;UNSTB;745.0;38.25972604751587
+Single-Crossing_7;UNSTC;699.0;36.38087344169617
+Single-Crossing_7;ST_0;674.0;35.998300552368164
+Single-Crossing_7;ST_1;666.0;36.106041431427
+Single-Crossing_7;ST_2;675.0;36.65665626525879
+Single-Crossing_7;ST_3;678.0;36.27497911453247
+Single-Crossing_7;IDSTA;602.0;32.96259093284607
+Single-Crossing_7;IDSTB;631.0;31.449652433395386
+Single-Crossing_7;IDSTC;633.0;30.525420427322388
+Single-Crossing_7;IDAN_0;665.0;28.870367527008057
+Single-Crossing_7;IDAN_1;657.0;29.594555854797363
+Single-Crossing_7;IDAN_2;647.0;30.46033501625061
+Single-Crossing_7;IDAN_3;635.0;32.2319757938385
+Single-Crossing_7;IDAN_4;627.0;31.257400274276733
+Single-Crossing_7;IDAN_5;621.0;31.82388424873352
+Single-Crossing_7;IDAN_6;621.0;32.07977223396301
+Single-Crossing_7;IDAN_7;631.0;32.555071115493774
+Single-Crossing_7;IDAN_8;641.0;32.14805293083191
+Single-Crossing_7;IDAN_9;655.0;32.05701208114624
+Single-Crossing_7;IDAN_10;667.0;31.492018699645996
+Single-Crossing_7;ANUN_0;668.0;31.888659477233887
+Single-Crossing_7;ANUN_1;672.0;32.42992830276489
+Single-Crossing_7;ANUN_2;682.0;23.026935577392578
+Single-Crossing_7;ANUN_3;688.0;17.470852851867676
+Single-Crossing_7;ANUN_4;698.0;18.584372758865356
+Single-Crossing_7;ANUN_5;716.0;22.70488977432251
+Single-Crossing_7;ANUN_6;735.0;25.613791942596436
+Single-Crossing_7;ANUN_7;762.0;19.967389583587646
+Single-Crossing_7;ANUN_8;770.0;19.838611841201782
+Single-Crossing_7;ANUN_9;830.0;20.227049350738525
+Single-Crossing_7;ANUN_10;847.0;24.14994502067566
+Single-Crossing_7;Irish_0;649.0;39.01861834526062
+Single-Crossing_7;Irish_1;606.0;38.6215181350708
+Single-Crossing_7;Irish_2;652.0;36.070844411849976
+Single-Crossing_7;Irish_3;586.0;22.03871750831604
+Single-Crossing_7;Irish_4;580.0;20.844322443008423
+Single-Crossing_7;Irish_5;553.0;26.764554023742676
+Single-Crossing_7;Irish_6;649.0;28.57764434814453
+Single-Crossing_7;Irish_7;601.0;41.23422622680664
+Single-Crossing_7;Sushi_0;598.0;39.48241639137268
+Single-Crossing_7;Sushi_1;582.0;38.8404815196991
+Single-Crossing_7;Sushi_2;536.0;39.100263357162476
+Single-Crossing_7;Sushi_3;609.0;38.766438245773315
+Single-Crossing_7;Sushi_4;651.0;37.78360962867737
+Single-Crossing_7;Sushi_5;568.0;37.894434690475464
+Single-Crossing_7;Sushi_6;625.0;23.573947429656982
+Single-Crossing_7;Sushi_7;637.0;21.00839138031006
+Single-Crossing_7;Grenoble_0;569.0;22.299810886383057
+Single-Crossing_7;Grenoble_1;552.0;26.829726934432983
+Single-Crossing_7;Grenoble_2;624.0;37.970402002334595
+Single-Crossing_7;Grenoble_3;575.0;37.65941786766052
+Single-Crossing_7;Grenoble_4;578.0;35.63112950325012
+Single-Crossing_7;Grenoble_5;532.0;38.4379768371582
+Single-Crossing_7;Grenoble_6;548.0;26.833494186401367
+Single-Crossing_7;Grenoble_7;553.0;26.648552894592285
+Single-Crossing_8;Single-Crossing_9;398.0;18.834295749664307
+Single-Crossing_8;Single-Crossing_10;374.0;19.481215715408325
+Single-Crossing_8;Single-Crossing_11;308.0;21.9064724445343
+Single-Crossing_8;Single-Crossing_12;204.0;23.1389741897583
+Single-Crossing_8;Single-Crossing_13;399.0;19.545881271362305
+Single-Crossing_8;Single-Crossing_14;304.0;18.66238260269165
+Single-Crossing_8;Single-Crossing_15;360.0;23.02305030822754
+Single-Crossing_8;GS Balanced_0;694.0;20.140785694122314
+Single-Crossing_8;GS Balanced_1;679.0;20.99022078514099
+Single-Crossing_8;GS Balanced_2;708.0;18.575623035430908
+Single-Crossing_8;GS Balanced_3;693.0;18.839815378189087
+Single-Crossing_8;GS Balanced_4;693.0;22.901140928268433
+Single-Crossing_8;GS Balanced_5;707.0;18.57928705215454
+Single-Crossing_8;GS Balanced_6;694.0;24.0299711227417
+Single-Crossing_8;GS Balanced_7;690.0;21.091634511947632
+Single-Crossing_8;GS Balanced_8;684.0;18.536496877670288
+Single-Crossing_8;GS Balanced_9;692.0;19.22093439102173
+Single-Crossing_8;GS Balanced_10;710.0;20.372746467590332
+Single-Crossing_8;GS Balanced_11;695.0;24.62535285949707
+Single-Crossing_8;GS Balanced_12;694.0;20.87381362915039
+Single-Crossing_8;GS Balanced_13;715.0;18.659921646118164
+Single-Crossing_8;GS Balanced_14;690.0;20.46875500679016
+Single-Crossing_8;GS Balanced_15;707.0;33.73189115524292
+Single-Crossing_8;GS Caterpillar_0;822.0;36.67937207221985
+Single-Crossing_8;GS Caterpillar_1;826.0;37.271607637405396
+Single-Crossing_8;GS Caterpillar_2;788.0;37.02052974700928
+Single-Crossing_8;GS Caterpillar_3;789.0;37.26996064186096
+Single-Crossing_8;GS Caterpillar_4;815.0;36.842684745788574
+Single-Crossing_8;GS Caterpillar_5;806.0;36.7513313293457
+Single-Crossing_8;GS Caterpillar_6;808.0;37.15036153793335
+Single-Crossing_8;GS Caterpillar_7;817.0;36.82317566871643
+Single-Crossing_8;GS Caterpillar_8;826.0;37.022050857543945
+Single-Crossing_8;GS Caterpillar_9;838.0;37.49312877655029
+Single-Crossing_8;GS Caterpillar_10;842.0;37.00953507423401
+Single-Crossing_8;GS Caterpillar_11;826.0;37.05811071395874
+Single-Crossing_8;GS Caterpillar_12;822.0;36.81030607223511
+Single-Crossing_8;GS Caterpillar_13;797.0;37.2677960395813
+Single-Crossing_8;GS Caterpillar_14;800.0;36.42136240005493
+Single-Crossing_8;GS Caterpillar_15;818.0;36.756237268447876
+Single-Crossing_8;Interval_0;393.0;37.38646078109741
+Single-Crossing_8;Interval_1;504.0;35.55474328994751
+Single-Crossing_8;Interval_2;378.0;36.24078130722046
+Single-Crossing_8;Interval_3;432.0;18.388866662979126
+Single-Crossing_8;Interval_4;352.0;21.364495038986206
+Single-Crossing_8;Interval_5;520.0;18.264347553253174
+Single-Crossing_8;Interval_6;544.0;18.368501901626587
+Single-Crossing_8;Interval_7;440.0;20.048807382583618
+Single-Crossing_8;Interval_8;514.0;18.523062467575073
+Single-Crossing_8;Interval_9;595.0;17.484167337417603
+Single-Crossing_8;Interval_10;428.0;18.48574447631836
+Single-Crossing_8;Interval_11;547.0;18.0119686126709
+Single-Crossing_8;Interval_12;527.0;18.032289505004883
+Single-Crossing_8;Interval_13;528.0;18.399742126464844
+Single-Crossing_8;Interval_14;467.0;18.886532068252563
+Single-Crossing_8;Interval_15;503.0;20.051950216293335
+Single-Crossing_8;Square_0;512.0;24.04106068611145
+Single-Crossing_8;Square_1;512.0;20.46138882637024
+Single-Crossing_8;Square_2;553.0;20.579384565353394
+Single-Crossing_8;Square_3;494.0;21.613620042800903
+Single-Crossing_8;Square_4;507.0;20.05735731124878
+Single-Crossing_8;Square_5;570.0;20.403666734695435
+Single-Crossing_8;Square_6;505.0;25.19421148300171
+Single-Crossing_8;Square_7;555.0;37.636634826660156
+Single-Crossing_8;Square_8;450.0;36.915199279785156
+Single-Crossing_8;Square_9;537.0;22.683623552322388
+Single-Crossing_8;Square_10;459.0;19.61668038368225
+Single-Crossing_8;Square_11;518.0;21.882861852645874
+Single-Crossing_8;Square_12;522.0;20.70447850227356
+Single-Crossing_8;Square_13;494.0;20.670244216918945
+Single-Crossing_8;Square_14;549.0;24.11499261856079
+Single-Crossing_8;Square_15;517.0;19.23852562904358
+Single-Crossing_8;Cube_0;562.0;21.572681665420532
+Single-Crossing_8;Cube_1;567.0;21.671900033950806
+Single-Crossing_8;Cube_2;609.0;28.96929931640625
+Single-Crossing_8;Cube_3;509.0;38.71026611328125
+Single-Crossing_8;Cube_4;526.0;22.827966451644897
+Single-Crossing_8;Cube_5;550.0;23.935715913772583
+Single-Crossing_8;Cube_6;430.0;20.23573327064514
+Single-Crossing_8;Cube_7;564.0;20.884438037872314
+Single-Crossing_8;Cube_8;559.0;22.422058582305908
+Single-Crossing_8;Cube_9;480.0;20.026164293289185
+Single-Crossing_8;Cube_10;517.0;21.05505108833313
+Single-Crossing_8;Cube_11;569.0;32.574942111968994
+Single-Crossing_8;Cube_12;536.0;37.818336963653564
+Single-Crossing_8;Cube_13;548.0;37.70419406890869
+Single-Crossing_8;Cube_14;451.0;23.820313215255737
+Single-Crossing_8;Cube_15;620.0;20.59219241142273
+Single-Crossing_8;5-Cube_0;655.0;23.47110152244568
+Single-Crossing_8;5-Cube_1;548.0;22.096878051757812
+Single-Crossing_8;5-Cube_2;502.0;21.16676139831543
+Single-Crossing_8;5-Cube_3;654.0;21.7071430683136
+Single-Crossing_8;5-Cube_4;626.0;22.789979219436646
+Single-Crossing_8;5-Cube_5;537.0;34.41154885292053
+Single-Crossing_8;5-Cube_6;682.0;39.112271785736084
+Single-Crossing_8;5-Cube_7;468.0;38.01982641220093
+Single-Crossing_8;10-Cube_0;530.0;40.2157199382782
+Single-Crossing_8;10-Cube_1;613.0;38.42051911354065
+Single-Crossing_8;10-Cube_2;715.0;39.095184087753296
+Single-Crossing_8;10-Cube_3;691.0;39.628589391708374
+Single-Crossing_8;10-Cube_4;645.0;39.61583352088928
+Single-Crossing_8;10-Cube_5;595.0;39.24519062042236
+Single-Crossing_8;10-Cube_6;527.0;39.119898080825806
+Single-Crossing_8;10-Cube_7;718.0;38.64557671546936
+Single-Crossing_8;Circle_0;619.0;36.69219613075256
+Single-Crossing_8;Circle_1;659.0;35.511192321777344
+Single-Crossing_8;Circle_2;594.0;35.92657709121704
+Single-Crossing_8;Circle_3;522.0;37.15433716773987
+Single-Crossing_8;Circle_4;661.0;22.158464908599854
+Single-Crossing_8;Circle_5;681.0;18.836394548416138
+Single-Crossing_8;Circle_6;634.0;20.44902467727661
+Single-Crossing_8;Circle_7;616.0;19.30925703048706
+Single-Crossing_8;Circle_8;630.0;19.17644453048706
+Single-Crossing_8;Circle_9;639.0;19.627445697784424
+Single-Crossing_8;Circle_10;610.0;21.75160789489746
+Single-Crossing_8;Circle_11;666.0;18.365721225738525
+Single-Crossing_8;Circle_12;619.0;18.978065967559814
+Single-Crossing_8;Circle_13;657.0;20.7513267993927
+Single-Crossing_8;Circle_14;649.0;20.616562366485596
+Single-Crossing_8;Circle_15;651.0;18.610279321670532
+Single-Crossing_8;Sphere_0;661.0;19.557621002197266
+Single-Crossing_8;Sphere_1;692.0;32.60070538520813
+Single-Crossing_8;Sphere_2;704.0;36.29970192909241
+Single-Crossing_8;Sphere_3;647.0;31.580383777618408
+Single-Crossing_8;Sphere_4;669.0;24.402655124664307
+Single-Crossing_8;Sphere_5;696.0;20.6017427444458
+Single-Crossing_8;Sphere_6;607.0;20.065736770629883
+Single-Crossing_8;Sphere_7;664.0;25.13446307182312
+Single-Crossing_8;Sphere_8;656.0;20.265251398086548
+Single-Crossing_8;Sphere_9;651.0;19.783884048461914
+Single-Crossing_8;Sphere_10;629.0;19.791091442108154
+Single-Crossing_8;Sphere_11;666.0;30.25020694732666
+Single-Crossing_8;Sphere_12;683.0;19.821284770965576
+Single-Crossing_8;Sphere_13;681.0;19.724791288375854
+Single-Crossing_8;Sphere_14;671.0;19.816784620285034
+Single-Crossing_8;Sphere_15;637.0;19.360565900802612
+Single-Crossing_8;Urn_0;508.0;22.508737564086914
+Single-Crossing_8;Urn_1;584.0;18.608739137649536
+Single-Crossing_8;Urn_2;520.0;18.98579692840576
+Single-Crossing_8;Urn_3;693.0;20.778640508651733
+Single-Crossing_8;Urn_4;690.0;19.786141633987427
+Single-Crossing_8;Urn_5;607.0;15.125515460968018
+Single-Crossing_8;Urn_6;558.0;17.318987607955933
+Single-Crossing_8;Urn_7;735.0;26.941574335098267
+Single-Crossing_8;Urn_8;501.0;32.861687421798706
+Single-Crossing_8;Urn_9;649.0;35.42812728881836
+Single-Crossing_8;Urn_10;495.0;33.648802757263184
+Single-Crossing_8;Urn_11;527.0;31.912423372268677
+Single-Crossing_8;Urn_12;558.0;33.13109087944031
+Single-Crossing_8;Urn_13;713.0;36.70974111557007
+Single-Crossing_8;Urn_14;585.0;34.44012999534607
+Single-Crossing_8;Urn_15;497.0;33.9572856426239
+Single-Crossing_8;Urn_16;669.0;28.34139609336853
+Single-Crossing_8;Urn_17;615.0;30.25196385383606
+Single-Crossing_8;Urn_18;674.0;35.529825925827026
+Single-Crossing_8;Urn_19;626.0;35.617295265197754
+Single-Crossing_8;Urn_20;593.0;31.66240358352661
+Single-Crossing_8;Urn_21;593.0;29.91415286064148
+Single-Crossing_8;Urn_22;614.0;35.566869497299194
+Single-Crossing_8;Urn_23;671.0;21.94637179374695
+Single-Crossing_8;Urn_24;585.0;32.00932741165161
+Single-Crossing_8;Urn_25;631.0;36.31015086174011
+Single-Crossing_8;Urn_26;732.0;37.32080554962158
+Single-Crossing_8;Urn_27;746.0;26.899188995361328
+Single-Crossing_8;Urn_28;456.0;20.219736099243164
+Single-Crossing_8;Urn_29;684.0;36.91180896759033
+Single-Crossing_8;Urn_30;487.0;33.88889193534851
+Single-Crossing_8;Urn_31;597.0;36.50069260597229
+Single-Crossing_8;Urn_32;529.0;33.64637851715088
+Single-Crossing_8;Urn_33;534.0;35.46882390975952
+Single-Crossing_8;Urn_34;536.0;35.40613317489624
+Single-Crossing_8;Urn_35;520.0;36.01633048057556
+Single-Crossing_8;Urn_36;644.0;25.636636972427368
+Single-Crossing_8;Urn_37;575.0;18.224263429641724
+Single-Crossing_8;Urn_38;507.0;25.777077436447144
+Single-Crossing_8;Urn_39;683.0;28.663424253463745
+Single-Crossing_8;Urn_40;526.0;30.99638271331787
+Single-Crossing_8;Urn_41;590.0;18.541332721710205
+Single-Crossing_8;Urn_42;784.0;31.844738245010376
+Single-Crossing_8;Urn_43;579.0;18.16438579559326
+Single-Crossing_8;Urn_44;524.0;18.469024658203125
+Single-Crossing_8;Urn_45;601.0;21.280325889587402
+Single-Crossing_8;Urn_46;532.0;20.682792901992798
+Single-Crossing_8;Urn_47;574.0;30.42905592918396
+Single-Crossing_8;Mallows_0;718.0;41.7258083820343
+Single-Crossing_8;Mallows_1;564.0;33.44266891479492
+Single-Crossing_8;Mallows_2;610.0;22.231045246124268
+Single-Crossing_8;Mallows_3;555.0;43.25411605834961
+Single-Crossing_8;Mallows_4;615.0;40.73221397399902
+Single-Crossing_8;Mallows_5;624.0;25.193947792053223
+Single-Crossing_8;Mallows_6;600.0;16.050365447998047
+Single-Crossing_8;Mallows_7;558.0;30.221517324447632
+Single-Crossing_8;Mallows_8;788.0;22.345139503479004
+Single-Crossing_8;Mallows_9;728.0;29.542404890060425
+Single-Crossing_8;Mallows_10;559.0;24.5844669342041
+Single-Crossing_8;Mallows_11;564.0;19.959387063980103
+Single-Crossing_8;Mallows_12;746.0;22.22264337539673
+Single-Crossing_8;Mallows_13;586.0;33.314661502838135
+Single-Crossing_8;Mallows_14;535.0;18.491897583007812
+Single-Crossing_8;Mallows_15;587.0;22.86660075187683
+Single-Crossing_8;Mallows_16;783.0;27.976494789123535
+Single-Crossing_8;Mallows_17;612.0;18.408370971679688
+Single-Crossing_8;Mallows_18;538.0;21.912622928619385
+Single-Crossing_8;Mallows_19;547.0;27.748034954071045
+Single-Crossing_8;Mallows_20;687.0;32.7688889503479
+Single-Crossing_8;Mallows_21;560.0;18.315202236175537
+Single-Crossing_8;Mallows_22;566.0;23.84520173072815
+Single-Crossing_8;Mallows_23;584.0;26.658209800720215
+Single-Crossing_8;Mallows_24;548.0;22.04760432243347
+Single-Crossing_8;Mallows_25;622.0;24.97580051422119
+Single-Crossing_8;Mallows_26;729.0;33.08575677871704
+Single-Crossing_8;Mallows_27;575.0;33.31911873817444
+Single-Crossing_8;Mallows_28;588.0;34.138137340545654
+Single-Crossing_8;Mallows_29;778.0;39.573928356170654
+Single-Crossing_8;Mallows_30;792.0;39.63545823097229
+Single-Crossing_8;Mallows_31;546.0;27.751200199127197
+Single-Crossing_8;Mallows_32;632.0;14.569038152694702
+Single-Crossing_8;Mallows_33;809.0;21.706868171691895
+Single-Crossing_8;Mallows_34;572.0;23.253658533096313
+Single-Crossing_8;Mallows_35;741.0;31.509369134902954
+Single-Crossing_8;Mallows_36;651.0;42.42850637435913
+Single-Crossing_8;Mallows_37;604.0;31.860645294189453
+Single-Crossing_8;Mallows_38;559.0;40.09800171852112
+Single-Crossing_8;Mallows_39;622.0;40.455193281173706
+Single-Crossing_8;Mallows_40;570.0;32.715715646743774
+Single-Crossing_8;Mallows_41;690.0;39.58854651451111
+Single-Crossing_8;Mallows_42;647.0;29.13910484313965
+Single-Crossing_8;Mallows_43;713.0;41.61440944671631
+Single-Crossing_8;Mallows_44;763.0;39.23310399055481
+Single-Crossing_8;Mallows_45;567.0;32.55748748779297
+Single-Crossing_8;Mallows_46;569.0;40.694385051727295
+Single-Crossing_8;Mallows_47;638.0;29.56736707687378
+Single-Crossing_8;UN_0;843.0;39.087793588638306
+Single-Crossing_8;UN_1;858.0;39.65755343437195
+Single-Crossing_8;UN_2;865.0;39.867830753326416
+Single-Crossing_8;UN_3;868.0;39.16390132904053
+Single-Crossing_8;ID;683.0;25.49579954147339
+Single-Crossing_8;AN;661.0;17.244783878326416
+Single-Crossing_8;UNSTA;696.0;26.7444589138031
+Single-Crossing_8;UNSTB;699.0;20.870079278945923
+Single-Crossing_8;UNSTC;673.0;22.077007055282593
+Single-Crossing_8;ST_0;636.0;28.62731957435608
+Single-Crossing_8;ST_1;638.0;19.183380365371704
+Single-Crossing_8;ST_2;637.0;22.290825605392456
+Single-Crossing_8;ST_3;638.0;19.49869441986084
+Single-Crossing_8;IDSTA;584.0;18.718787908554077
+Single-Crossing_8;IDSTB;615.0;28.981308937072754
+Single-Crossing_8;IDSTC;631.0;30.593769788742065
+Single-Crossing_8;IDAN_0;675.0;29.336363077163696
+Single-Crossing_8;IDAN_1;665.0;29.995601654052734
+Single-Crossing_8;IDAN_2;659.0;31.02241587638855
+Single-Crossing_8;IDAN_3;665.0;22.317660808563232
+Single-Crossing_8;IDAN_4;665.0;16.05339527130127
+Single-Crossing_8;IDAN_5;669.0;17.92200207710266
+Single-Crossing_8;IDAN_6;667.0;32.36035203933716
+Single-Crossing_8;IDAN_7;665.0;29.26499629020691
+Single-Crossing_8;IDAN_8;663.0;15.862148761749268
+Single-Crossing_8;IDAN_9;661.0;15.7922523021698
+Single-Crossing_8;IDAN_10;659.0;15.758728981018066
+Single-Crossing_8;ANUN_0;658.0;17.025322914123535
+Single-Crossing_8;ANUN_1;662.0;17.16292405128479
+Single-Crossing_8;ANUN_2;666.0;22.001580238342285
+Single-Crossing_8;ANUN_3;684.0;17.95897102355957
+Single-Crossing_8;ANUN_4;696.0;21.346972465515137
+Single-Crossing_8;ANUN_5;714.0;19.274433374404907
+Single-Crossing_8;ANUN_6;735.0;26.692437410354614
+Single-Crossing_8;ANUN_7;752.0;37.01231074333191
+Single-Crossing_8;ANUN_8;764.0;37.070088624954224
+Single-Crossing_8;ANUN_9;822.0;37.62366509437561
+Single-Crossing_8;ANUN_10;851.0;38.04190373420715
+Single-Crossing_8;Irish_0;695.0;38.92376923561096
+Single-Crossing_8;Irish_1;556.0;37.580157995224
+Single-Crossing_8;Irish_2;654.0;23.675000429153442
+Single-Crossing_8;Irish_3;604.0;38.192142963409424
+Single-Crossing_8;Irish_4;608.0;35.66837954521179
+Single-Crossing_8;Irish_5;631.0;21.586984872817993
+Single-Crossing_8;Irish_6;681.0;21.028647899627686
+Single-Crossing_8;Irish_7;603.0;21.74578022956848
+Single-Crossing_8;Sushi_0;638.0;22.14173126220703
+Single-Crossing_8;Sushi_1;584.0;25.06758165359497
+Single-Crossing_8;Sushi_2;584.0;21.250964641571045
+Single-Crossing_8;Sushi_3;607.0;21.02246069908142
+Single-Crossing_8;Sushi_4;647.0;29.07452154159546
+Single-Crossing_8;Sushi_5;564.0;38.820186614990234
+Single-Crossing_8;Sushi_6;631.0;40.05645775794983
+Single-Crossing_8;Sushi_7;609.0;39.01315116882324
+Single-Crossing_8;Grenoble_0;557.0;38.09110474586487
+Single-Crossing_8;Grenoble_1;548.0;38.77813005447388
+Single-Crossing_8;Grenoble_2;570.0;28.12712025642395
+Single-Crossing_8;Grenoble_3;567.0;21.238998413085938
+Single-Crossing_8;Grenoble_4;564.0;22.32674241065979
+Single-Crossing_8;Grenoble_5;544.0;23.06998038291931
+Single-Crossing_8;Grenoble_6;576.0;23.179155826568604
+Single-Crossing_8;Grenoble_7;549.0;21.316159963607788
+Single-Crossing_9;Single-Crossing_10;300.0;21.765892028808594
+Single-Crossing_9;Single-Crossing_11;416.0;25.580528020858765
+Single-Crossing_9;Single-Crossing_12;434.0;36.309197187423706
+Single-Crossing_9;Single-Crossing_13;349.0;35.64103579521179
+Single-Crossing_9;Single-Crossing_14;296.0;36.12192893028259
+Single-Crossing_9;Single-Crossing_15;342.0;36.3244788646698
+Single-Crossing_9;GS Balanced_0;680.0;34.87851858139038
+Single-Crossing_9;GS Balanced_1;679.0;35.42128252983093
+Single-Crossing_9;GS Balanced_2;700.0;34.690093994140625
+Single-Crossing_9;GS Balanced_3;711.0;35.58693170547485
+Single-Crossing_9;GS Balanced_4;695.0;35.14033222198486
+Single-Crossing_9;GS Balanced_5;703.0;35.08533000946045
+Single-Crossing_9;GS Balanced_6;690.0;35.3378005027771
+Single-Crossing_9;GS Balanced_7;676.0;34.50671577453613
+Single-Crossing_9;GS Balanced_8;694.0;35.0559401512146
+Single-Crossing_9;GS Balanced_9;696.0;36.1494255065918
+Single-Crossing_9;GS Balanced_10;698.0;35.22923707962036
+Single-Crossing_9;GS Balanced_11;671.0;34.5841121673584
+Single-Crossing_9;GS Balanced_12;696.0;35.99760627746582
+Single-Crossing_9;GS Balanced_13;683.0;35.2507541179657
+Single-Crossing_9;GS Balanced_14;680.0;34.97293043136597
+Single-Crossing_9;GS Balanced_15;695.0;35.92133355140686
+Single-Crossing_9;GS Caterpillar_0;812.0;36.07576060295105
+Single-Crossing_9;GS Caterpillar_1;812.0;34.11575961112976
+Single-Crossing_9;GS Caterpillar_2;768.0;35.8413872718811
+Single-Crossing_9;GS Caterpillar_3;807.0;36.59400796890259
+Single-Crossing_9;GS Caterpillar_4;789.0;22.758008003234863
+Single-Crossing_9;GS Caterpillar_5;790.0;22.422560930252075
+Single-Crossing_9;GS Caterpillar_6;802.0;19.60437250137329
+Single-Crossing_9;GS Caterpillar_7;799.0;19.49068570137024
+Single-Crossing_9;GS Caterpillar_8;780.0;19.69844698905945
+Single-Crossing_9;GS Caterpillar_9;814.0;19.69270658493042
+Single-Crossing_9;GS Caterpillar_10;818.0;23.04518437385559
+Single-Crossing_9;GS Caterpillar_11;800.0;20.00732707977295
+Single-Crossing_9;GS Caterpillar_12;808.0;25.174707412719727
+Single-Crossing_9;GS Caterpillar_13;811.0;22.58143186569214
+Single-Crossing_9;GS Caterpillar_14;778.0;19.912253379821777
+Single-Crossing_9;GS Caterpillar_15;810.0;21.3502836227417
+Single-Crossing_9;Interval_0;399.0;35.862308740615845
+Single-Crossing_9;Interval_1;450.0;35.89925146102905
+Single-Crossing_9;Interval_2;376.0;36.55485963821411
+Single-Crossing_9;Interval_3;428.0;35.31402897834778
+Single-Crossing_9;Interval_4;390.0;36.804447889328
+Single-Crossing_9;Interval_5;488.0;19.233420610427856
+Single-Crossing_9;Interval_6;508.0;19.986451625823975
+Single-Crossing_9;Interval_7;414.0;18.470913648605347
+Single-Crossing_9;Interval_8;480.0;20.379035711288452
+Single-Crossing_9;Interval_9;559.0;19.000741720199585
+Single-Crossing_9;Interval_10;450.0;19.336500644683838
+Single-Crossing_9;Interval_11;537.0;17.768516302108765
+Single-Crossing_9;Interval_12;515.0;18.420642375946045
+Single-Crossing_9;Interval_13;496.0;18.678271293640137
+Single-Crossing_9;Interval_14;493.0;18.062848806381226
+Single-Crossing_9;Interval_15;505.0;26.777429819107056
+Single-Crossing_9;Square_0;488.0;36.515950441360474
+Single-Crossing_9;Square_1;484.0;36.5976881980896
+Single-Crossing_9;Square_2;557.0;36.314703941345215
+Single-Crossing_9;Square_3;430.0;36.18882989883423
+Single-Crossing_9;Square_4;529.0;36.78275775909424
+Single-Crossing_9;Square_5;522.0;37.104838609695435
+Single-Crossing_9;Square_6;581.0;36.97408843040466
+Single-Crossing_9;Square_7;487.0;37.19738435745239
+Single-Crossing_9;Square_8;528.0;36.0684380531311
+Single-Crossing_9;Square_9;499.0;36.24207782745361
+Single-Crossing_9;Square_10;413.0;36.42670941352844
+Single-Crossing_9;Square_11;522.0;36.59960412979126
+Single-Crossing_9;Square_12;526.0;36.76560139656067
+Single-Crossing_9;Square_13;512.0;29.873823642730713
+Single-Crossing_9;Square_14;605.0;19.193938493728638
+Single-Crossing_9;Square_15;505.0;28.700784921646118
+Single-Crossing_9;Cube_0;540.0;27.97775101661682
+Single-Crossing_9;Cube_1;585.0;22.61304020881653
+Single-Crossing_9;Cube_2;595.0;20.14641284942627
+Single-Crossing_9;Cube_3;511.0;21.965171575546265
+Single-Crossing_9;Cube_4;540.0;20.84668803215027
+Single-Crossing_9;Cube_5;532.0;20.23532009124756
+Single-Crossing_9;Cube_6;470.0;21.449729442596436
+Single-Crossing_9;Cube_7;586.0;23.63327932357788
+Single-Crossing_9;Cube_8;559.0;20.102229118347168
+Single-Crossing_9;Cube_9;464.0;19.67500376701355
+Single-Crossing_9;Cube_10;525.0;20.903275966644287
+Single-Crossing_9;Cube_11;549.0;21.29490828514099
+Single-Crossing_9;Cube_12;522.0;20.232721090316772
+Single-Crossing_9;Cube_13;578.0;21.687087774276733
+Single-Crossing_9;Cube_14;473.0;20.02069878578186
+Single-Crossing_9;Cube_15;594.0;20.141456604003906
+Single-Crossing_9;5-Cube_0;647.0;20.84765863418579
+Single-Crossing_9;5-Cube_1;506.0;21.036457777023315
+Single-Crossing_9;5-Cube_2;550.0;21.628384113311768
+Single-Crossing_9;5-Cube_3;670.0;20.47748851776123
+Single-Crossing_9;5-Cube_4;594.0;20.239168882369995
+Single-Crossing_9;5-Cube_5;499.0;20.295029163360596
+Single-Crossing_9;5-Cube_6;670.0;24.15754747390747
+Single-Crossing_9;5-Cube_7;484.0;20.63568091392517
+Single-Crossing_9;10-Cube_0;506.0;25.072877645492554
+Single-Crossing_9;10-Cube_1;581.0;21.139968633651733
+Single-Crossing_9;10-Cube_2;731.0;24.29641366004944
+Single-Crossing_9;10-Cube_3;685.0;21.148104667663574
+Single-Crossing_9;10-Cube_4;617.0;23.70309567451477
+Single-Crossing_9;10-Cube_5;589.0;20.684112548828125
+Single-Crossing_9;10-Cube_6;535.0;25.271179914474487
+Single-Crossing_9;10-Cube_7;692.0;20.3057918548584
+Single-Crossing_9;Circle_0;643.0;19.837519884109497
+Single-Crossing_9;Circle_1;653.0;18.513590812683105
+Single-Crossing_9;Circle_2;576.0;18.3977210521698
+Single-Crossing_9;Circle_3;558.0;21.579776525497437
+Single-Crossing_9;Circle_4;687.0;18.31697106361389
+Single-Crossing_9;Circle_5;675.0;17.87298011779785
+Single-Crossing_9;Circle_6;658.0;18.408020734786987
+Single-Crossing_9;Circle_7;666.0;22.078636646270752
+Single-Crossing_9;Circle_8;656.0;18.124562978744507
+Single-Crossing_9;Circle_9;655.0;19.55837607383728
+Single-Crossing_9;Circle_10;580.0;17.52149772644043
+Single-Crossing_9;Circle_11;670.0;17.773155450820923
+Single-Crossing_9;Circle_12;645.0;19.45847487449646
+Single-Crossing_9;Circle_13;687.0;17.436720371246338
+Single-Crossing_9;Circle_14;669.0;17.782976865768433
+Single-Crossing_9;Circle_15;667.0;18.388685703277588
+Single-Crossing_9;Sphere_0;653.0;24.747480869293213
+Single-Crossing_9;Sphere_1;720.0;17.987277269363403
+Single-Crossing_9;Sphere_2;724.0;18.49820876121521
+Single-Crossing_9;Sphere_3;665.0;19.90174961090088
+Single-Crossing_9;Sphere_4;681.0;18.498958587646484
+Single-Crossing_9;Sphere_5;702.0;18.635608434677124
+Single-Crossing_9;Sphere_6;637.0;18.41777753829956
+Single-Crossing_9;Sphere_7;650.0;18.99047040939331
+Single-Crossing_9;Sphere_8;662.0;17.733843088150024
+Single-Crossing_9;Sphere_9;639.0;21.468252897262573
+Single-Crossing_9;Sphere_10;645.0;16.888550758361816
+Single-Crossing_9;Sphere_11;660.0;17.49541163444519
+Single-Crossing_9;Sphere_12;723.0;21.327948808670044
+Single-Crossing_9;Sphere_13;681.0;16.20327854156494
+Single-Crossing_9;Sphere_14;689.0;17.567201614379883
+Single-Crossing_9;Sphere_15;665.0;20.039233207702637
+Single-Crossing_9;Urn_0;576.0;14.81697702407837
+Single-Crossing_9;Urn_1;498.0;14.896168947219849
+Single-Crossing_9;Urn_2;506.0;17.518845081329346
+Single-Crossing_9;Urn_3;665.0;18.352532386779785
+Single-Crossing_9;Urn_4;714.0;16.10362720489502
+Single-Crossing_9;Urn_5;629.0;14.586893796920776
+Single-Crossing_9;Urn_6;552.0;17.210800647735596
+Single-Crossing_9;Urn_7;739.0;17.71985125541687
+Single-Crossing_9;Urn_8;491.0;13.564003229141235
+Single-Crossing_9;Urn_9;691.0;17.227356433868408
+Single-Crossing_9;Urn_10;467.0;17.912636756896973
+Single-Crossing_9;Urn_11;455.0;16.268601417541504
+Single-Crossing_9;Urn_12;574.0;15.781118154525757
+Single-Crossing_9;Urn_13;709.0;16.681994199752808
+Single-Crossing_9;Urn_14;501.0;17.133448362350464
+Single-Crossing_9;Urn_15;529.0;14.89619517326355
+Single-Crossing_9;Urn_16;665.0;11.655035018920898
+Single-Crossing_9;Urn_17;645.0;13.038417339324951
+Single-Crossing_9;Urn_18;684.0;18.029428005218506
+Single-Crossing_9;Urn_19;644.0;17.038576126098633
+Single-Crossing_9;Urn_20;611.0;14.072584390640259
+Single-Crossing_9;Urn_21;619.0;14.263953447341919
+Single-Crossing_9;Urn_22;610.0;17.582918643951416
+Single-Crossing_9;Urn_23;667.0;11.456878423690796
+Single-Crossing_9;Urn_24;565.0;13.977111339569092
+Single-Crossing_9;Urn_25;657.0;17.672589778900146
+Single-Crossing_9;Urn_26;758.0;19.01623558998108
+Single-Crossing_9;Urn_27;758.0;15.023714542388916
+Single-Crossing_9;Urn_28;498.0;13.096795320510864
+Single-Crossing_9;Urn_29;674.0;18.44607186317444
+Single-Crossing_9;Urn_30;427.0;14.610547065734863
+Single-Crossing_9;Urn_31;579.0;15.335551977157593
+Single-Crossing_9;Urn_32;553.0;14.801105737686157
+Single-Crossing_9;Urn_33;506.0;17.31165337562561
+Single-Crossing_9;Urn_34;586.0;16.185049772262573
+Single-Crossing_9;Urn_35;498.0;14.80253005027771
+Single-Crossing_9;Urn_36;572.0;16.15870976448059
+Single-Crossing_9;Urn_37;557.0;16.345770359039307
+Single-Crossing_9;Urn_38;525.0;14.487010955810547
+Single-Crossing_9;Urn_39;693.0;11.816352367401123
+Single-Crossing_9;Urn_40;584.0;16.69407367706299
+Single-Crossing_9;Urn_41;642.0;18.809359788894653
+Single-Crossing_9;Urn_42;790.0;16.21925640106201
+Single-Crossing_9;Urn_43;587.0;14.493033647537231
+Single-Crossing_9;Urn_44;542.0;16.00398540496826
+Single-Crossing_9;Urn_45;579.0;15.042543649673462
+Single-Crossing_9;Urn_46;524.0;15.938016891479492
+Single-Crossing_9;Urn_47;566.0;15.261827230453491
+Single-Crossing_9;Mallows_0;684.0;17.536736249923706
+Single-Crossing_9;Mallows_1;556.0;19.594867944717407
+Single-Crossing_9;Mallows_2;608.0;12.588567733764648
+Single-Crossing_9;Mallows_3;541.0;18.000427961349487
+Single-Crossing_9;Mallows_4;589.0;18.027282238006592
+Single-Crossing_9;Mallows_5;630.0;12.404222011566162
+Single-Crossing_9;Mallows_6;606.0;13.607698202133179
+Single-Crossing_9;Mallows_7;536.0;20.71254324913025
+Single-Crossing_9;Mallows_8;790.0;18.500903606414795
+Single-Crossing_9;Mallows_9;736.0;16.720579624176025
+Single-Crossing_9;Mallows_10;545.0;21.12808918952942
+Single-Crossing_9;Mallows_11;558.0;17.290404558181763
+Single-Crossing_9;Mallows_12;748.0;17.909297466278076
+Single-Crossing_9;Mallows_13;530.0;19.057458639144897
