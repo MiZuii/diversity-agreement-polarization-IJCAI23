@@ -23,6 +23,26 @@ experiment = mapel.prepare_experiment(experiment_id=experiment_id,
                                       distance_id=distance_id,
                                       embedding_id=embedding_id)
 
+# Load custom data
+import os
+import pandas as pd
+BASE_DIR = os.path.abspath('../../../..')
+RESULTS_DIR = os.path.join(BASE_DIR, "results_data")
+
+diverse_dataset = []
+# pcdf8 = pd.read_csv(f"{RESULTS_DIR}/v6_point_cloud_results_grid_v2_2_8.csv")
+pcdf8 = pd.read_csv(f"{RESULTS_DIR}/v6_point_cloud_results.csv")
+for x, y in zip(pcdf8["real_result_A"], pcdf8["real_result_D"]):
+    diverse_dataset.append({
+        "x": x,
+        "y": y,
+    })
+# for x, y in zip(pcdf8["approx_result_A"], pcdf8["approx_result_D"]):
+#     diverse_dataset.append({
+#         "x": x,
+#         "y": y,
+#     })
+
 # # EXPERIMENT INITIALIZATION
 # experiment.prepare_elections(printing=True)
 # print("Elections prepared")
@@ -37,21 +57,21 @@ experiment = pp.rotate_map(experiment, - math.pi * 0.3, 'ID')
 
 
 # # STANDARD MAP
-experiment.print_map(legend=False,
-                     legend_pos=[0.95, 1.15],
-                     shading=True,
-                     title=f'{name} ({embedding_id})',
-                     figsize=(9.4, 6.4),
-                     # textual=['ID', 'UN', 'AN', 'ST'],
-                     saveas="diversity_map_8_96",
-                     urn_orangered=False,
-                     tex=True,
-                     )
+# experiment.print_map(legend=False,
+#                      legend_pos=[0.95, 1.15],
+#                      shading=True,
+#                      title=f'{name} ({embedding_id})',
+#                      figsize=(9.4, 6.4),
+#                      # textual=['ID', 'UN', 'AN', 'ST'],
+#                      saveas="diversity_map_8_96",
+#                      urn_orangered=False,
+#                      tex=True,
+#                      )
 
 
 # # # k-KEMENY DISTANCES
 # x = kkd.compare_k_kemeny_distances(experiment, saveas='default')
-kkd.analyze_k_kemeny_distances(experiment, load='default', saveas='default')
+# kkd.analyze_k_kemeny_distances(experiment, load='default', saveas='default')
 
 
 # # INDICES COMPUTATION
@@ -68,54 +88,54 @@ kkd.analyze_k_kemeny_distances(experiment, load='default', saveas='default')
 
 
 # # INDICES VALUES ON THE MAP
-pp.print_map_color_feature(experiment,
-                           agreement,
-                           '#0A0',
-                           saveas='default',
-                           reverse_colors=True,
-                           i=1)
-pp.print_map_color_feature(experiment,
-                           diversity,
-                           'blue',
-                           saveas='default',
-                           reverse_colors=True,
-                           i=2)
-pp.print_map_color_feature(experiment,
-                           polarization,
-                           'red',
-                           saveas='default',
-                           reverse_colors=True,
-                           i=0)
-pp.print_map_triple_feature(experiment,
-                            polarization,
-                            agreement,
-                            diversity,
-                            saveas='default',
-                            reverse_colors=True)
-pp.print_map_sum_of_features(experiment,
-                            [polarization,
-                            agreement,
-                            diversity],
-                            saveas='default',
-                            reverse_colors=True)
+# pp.print_map_color_feature(experiment,
+#                            agreement,
+#                            '#0A0',
+#                            saveas='default',
+#                            reverse_colors=True,
+#                            i=1)
+# pp.print_map_color_feature(experiment,
+#                            diversity,
+#                            'blue',
+#                            saveas='default',
+#                            reverse_colors=True,
+#                            i=2)
+# pp.print_map_color_feature(experiment,
+#                            polarization,
+#                            'red',
+#                            saveas='default',
+#                            reverse_colors=True,
+#                            i=0)
+# pp.print_map_triple_feature(experiment,
+#                             polarization,
+#                             agreement,
+#                             diversity,
+#                             saveas='default',
+#                             reverse_colors=True)
+# pp.print_map_sum_of_features(experiment,
+#                             [polarization,
+#                             agreement,
+#                             diversity],
+#                             saveas='default',
+#                             reverse_colors=True)
 
 
 # # TRIANGLE MAPS
-pp.print_map_by_features(experiment, agreement, diversity, saveas='default')
-pp.print_triangle_map(experiment, agreement, diversity, mode='agr-div', saveas='default')
-pp.print_map_by_features(experiment, agreement, polarization, saveas='default')
-pp.print_triangle_map(experiment, agreement, polarization, mode='agr-pol', saveas='default')
-pp.print_map_by_features(experiment, diversity, polarization, saveas='default')
-pp.print_triangle_map(experiment, diversity, polarization, mode='div-pol', saveas='default')
+pp.print_map_by_features(experiment, agreement, diversity, saveas='default', added_points=diverse_dataset)
+pp.print_triangle_map(experiment, agreement, diversity, mode='agr-div', saveas='default', added_points=diverse_dataset)
+# pp.print_map_by_features(experiment, agreement, polarization, saveas='default')
+# pp.print_triangle_map(experiment, agreement, polarization, mode='agr-pol', saveas='default')
+# pp.print_map_by_features(experiment, diversity, polarization, saveas='default')
+# pp.print_triangle_map(experiment, diversity, polarization, mode='div-pol', saveas='default')
 
 
 # # CORRELATIONS TO DISTANCES
-pp.correlation_feature_distance(experiment, agreement, 'ID')
-pp.plot_feature_distance(experiment, agreement, 'ID', saveas='default')
-pp.correlation_feature_distance(experiment, polarization, 'AN')
-pp.plot_feature_distance(experiment, polarization, 'AN', saveas='default')
-pp.correlation_feature_distance(experiment, diversity, 'UN_0')
-pp.plot_feature_distance(experiment, diversity, 'UN_0', saveas='default')
+# pp.correlation_feature_distance(experiment, agreement, 'ID')
+# pp.plot_feature_distance(experiment, agreement, 'ID', saveas='default')
+# pp.correlation_feature_distance(experiment, polarization, 'AN')
+# pp.plot_feature_distance(experiment, polarization, 'AN', saveas='default')
+# pp.correlation_feature_distance(experiment, diversity, 'UN_0')
+# pp.plot_feature_distance(experiment, diversity, 'UN_0', saveas='default')
 # # pp.plot_feature_distance(experiment, diversity, 'UN_1', saveas='default')
 # # pp.plot_feature_distance(experiment, diversity, 'UN_2', saveas='default')
 # # pp.plot_feature_distance(experiment, diversity, 'UN_3', saveas='default')
